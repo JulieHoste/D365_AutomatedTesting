@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Internally invoiced_dyn-container _8b66_78d03b_1</name>
+   <tag></tag>
+   <elementGuidId>a9f0839f-d52a-440c-9c13-2f14b8480a9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#CustInvoiceLine_RKVUnitId_487_0_0 > div.dyn-container._77u0y8 > div.dyn-container._8b669f.dyn-svg-symbol.dyn-lookup-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CustInvoiceLine_RKVUnitId_487_0_0']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Unit Open&quot;i] >> internal:attr=[title=&quot;Open&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a5179e07-3a49-47fe-a1fc-c8e4bc9acef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dyn-container _8b669f dyn-svg-symbol dyn-lookup-button</value>
+      <webElementGuid>a6ff767d-959a-4ad8-9460-d8e234f4dbbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>2377a43e-3d1d-463f-949a-e2ffb664a0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84a69968-9803-4072-8995-5fb8ec6a4611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>2c9d8c62-8f66-4161-a76f-e17a9e5e2d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CustInvoiceLine_RKVUnitId_487_0_0&quot;)/div[@class=&quot;dyn-container _77u0y8&quot;]/div[@class=&quot;dyn-container _8b669f dyn-svg-symbol dyn-lookup-button&quot;]</value>
+      <webElementGuid>b4c19fc7-21ad-4928-a3eb-b684b8ebb63f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CustInvoiceLine_RKVUnitId_487_0_0']/div/div</value>
+      <webElementGuid>24f8495a-e477-4eb4-a2e1-755a83b05acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internally invoiced'])[1]/following::div[85]</value>
+      <webElementGuid>b9689181-176e-4333-bc1c-b72ef583479c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::div[105]</value>
+      <webElementGuid>f05d66bd-ccd4-4fc5-963d-bc9555dad2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Line details'])[1]/preceding::div[32]</value>
+      <webElementGuid>dc39c5d6-7a1d-430b-87b0-1d6a2c9de632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/preceding::div[36]</value>
+      <webElementGuid>9004f8c6-22dc-451a-9046-7d249acdb45e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div/div/div</value>
+      <webElementGuid>0fc77868-5ef2-4d51-80bc-a03b6c0ee953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Open']</value>
+      <webElementGuid>5dde6125-770e-4737-b6f2-f17f640df6b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

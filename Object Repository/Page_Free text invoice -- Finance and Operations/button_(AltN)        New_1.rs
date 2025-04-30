@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_(AltN)        New_1</name>
+   <tag></tag>
+   <elementGuidId>8aac8553-f5f0-4a06-a305-035eea4fa7f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#custfreeinvoicelistpage_2_SystemDefinedNewButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='custfreeinvoicelistpage_2_SystemDefinedNewButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; New&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fcf52b1e-38cb-435f-8ba6-de77aaf9c2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-serverid</name>
+      <type>Main</type>
+      <value>394_0</value>
+      <webElementGuid>46756bb7-09e2-4f6f-b72b-61b629616cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-rootserverid</name>
+      <type>Main</type>
+      <value>188_0</value>
+      <webElementGuid>253a04a6-b299-4b5e-854b-8851f588360c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-controlname</name>
+      <type>Main</type>
+      <value>SystemDefinedNewButton</value>
+      <webElementGuid>8b76e0d4-0c4f-428a-916c-9a7e2869c004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-role</name>
+      <type>Main</type>
+      <value>CommandButton</value>
+      <webElementGuid>c78de0b5-6dc0-4bc4-b6ee-de5a14a1d543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Auto button dynamicsButton</value>
+      <webElementGuid>c17ceedb-9394-4158-96cc-e866336e6221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e710a3a0-2aeb-41a0-a306-9a5423059548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+    visible: $data.Visible,
+    enabled: $data.Enabled,
+    click: { callBack: $data.Clicked, optOutOfAllowSave: true },
+    keyDown: $data.keyDown,
+    ariaPressed: $data.Toggled,
+    skip: $dyn.ui.skip($data),
+    superTooltip: $dyn.ui.superTooltip($data),
+    attr: {
+        'name': $data.Name,
+        'data-dyn-button-display': $data.buttonDisplay,
+    },
+    sizing: $dyn.layout.sizing($data),
+    css: {
+        'button-isDefault' : $data.DefaultButton,
+        'button-attachment-count' : $dyn.value($data.IsLabelBubble)
+    }</value>
+      <webElementGuid>bd0e4f9a-700a-4ad5-8690-1f2a76a645dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-template-applied</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bab5924d-6e18-42a5-8470-8146f6892c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>command</name>
+      <type>Main</type>
+      <value>New</value>
+      <webElementGuid>cc387ade-ae07-4601-864a-54daa13aa22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>buttonstyle</name>
+      <type>Main</type>
+      <value>Auto</value>
+      <webElementGuid>57c068dd-85f5-4d01-9f37-1299e9c30331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>custfreeinvoicelistpage_2_SystemDefinedNewButton</value>
+      <webElementGuid>04a8bfc3-d71c-4a0c-8796-611df4d6ce2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-lastvisible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>38a501e7-0e4e-4aea-8c12-b7990c68a979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e20983d2-795c-484d-929a-38484f21b286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0795a632-9bbf-499e-9ebf-ef8d8ab971ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SystemDefinedNewButton</value>
+      <webElementGuid>2b3bf59a-6b71-4110-9d51-387cb4909233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-button-display</name>
+      <type>Main</type>
+      <value>TextWithImageLeft</value>
+      <webElementGuid>569a2575-b02d-40ef-a685-ff9ee2c3420b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hasqtip</name>
+      <type>Main</type>
+      <value>superToolTip</value>
+      <webElementGuid>fe17d431-98bc-4eb6-8f24-e6fa9b913afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>qtip-superToolTip</value>
+      <webElementGuid>fdc3fcf8-cd39-4b75-a13b-2be79723d6db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+        (Alt+N)
+        New
+    </value>
+      <webElementGuid>35a57cde-c131-41e4-b460-5dffc4d4ac45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custfreeinvoicelistpage_2_SystemDefinedNewButton&quot;)</value>
+      <webElementGuid>c2ae3828-e0eb-4b75-8074-ab719c6f495a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='custfreeinvoicelistpage_2_SystemDefinedNewButton']</value>
+      <webElementGuid>52fd6759-255f-4b91-b9c8-0f7bed6ed568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custfreeinvoicelistpage_2_PrioritizedPage']/button</value>
+      <webElementGuid>396d8578-9a34-4662-a193-53c25eed1dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      <webElementGuid>6e1daae6-22de-4daa-9d50-9870bb3f2cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(F2)'])[1]/following::button[1]</value>
+      <webElementGuid>35889d6e-9ab6-414c-933c-14de263a3647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/div[3]/div/div[5]/button</value>
+      <webElementGuid>d4673c88-d297-4172-ac02-005dfd9ca23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'custfreeinvoicelistpage_2_SystemDefinedNewButton' and @name = 'SystemDefinedNewButton' and (text() = '
+        
+        (Alt+N)
+        New
+    ' or . = '
+        
+        (Alt+N)
+        New
+    ')]</value>
+      <webElementGuid>d9354f2e-c903-49f1-8b3f-cee55c2626f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

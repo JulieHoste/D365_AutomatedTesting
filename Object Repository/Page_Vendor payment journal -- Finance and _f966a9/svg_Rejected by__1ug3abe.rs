@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Rejected by__1ug3abe</name>
+   <tag></tag>
+   <elementGuidId>3dbb482d-30e2-4a85-bff2-641b245b3c84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div[6]/div/form/div[5]/div/div[2]/div[2]/div[2]/div[3]/div/div/div/div/div/div[1]/div[3]/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg._1ug3abe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#GridOverview_191_0-row-0 >> internal:role=checkbox[name=&quot;Select or unselect row&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e541b07d-9621-425c-8f05-2de0d87ebe72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1ug3abe</value>
+      <webElementGuid>d97a3cf9-3861-46f8-961b-4f860dad0b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4c58e564-970a-4d2c-8adc-0c2d932909c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 44 44</value>
+      <webElementGuid>35009584-e9ad-4354-babd-2d5be63c2be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a3011f49-73fe-404f-a9c3-2e4b8cf6389d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GridOverview_191_0-row-0&quot;)/div[@class=&quot;fixedDataTableRowLayout_body&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroupWrapper&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroup&quot;]/div[@class=&quot;fixedDataTableCellLayout_main public_fixedDataTableCell_main&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap1 public_fixedDataTableCell_wrap1 dyn-markingColumn dyn-isFixed dyn-activeRowCell _uhrj6r _1vh9n25&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap2 public_fixedDataTableCell_wrap2&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap3 public_fixedDataTableCell_wrap3&quot;]/div[@class=&quot;public_fixedDataTableCell_cellContent&quot;]/div[@class=&quot;dyn-container _ln972h dyn-svg-symbol&quot;]/svg[@class=&quot;_1ug3abe&quot;]</value>
+      <webElementGuid>4287abe0-7d46-4585-b8cb-20740e349e7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected by'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>e3fc46c9-7dd0-483f-b64c-fdd832dafeef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modified by'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>99ec3dac-ed3b-4d32-a39c-c229515718cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related information'])[2]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>a2759092-91bb-4d46-a122-9ecc102573ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

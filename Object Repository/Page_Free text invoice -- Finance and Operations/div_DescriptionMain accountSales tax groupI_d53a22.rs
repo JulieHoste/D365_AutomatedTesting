@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DescriptionMain accountSales tax groupI_d53a22</name>
+   <tag></tag>
+   <elementGuidId>195d0334-ab5c-4217-a0ed-261a5ecb50ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fixedDataTableLayout_rowsContainer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='LinesGrid_487_0_grid']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.fixedDataTableLayout_rowsContainer >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a6351f21-a926-4259-af59-c028bcb0dac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fixedDataTableLayout_rowsContainer</value>
+      <webElementGuid>2ae00976-73fb-4477-a29f-aac33b65754a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DescriptionMain accountSales tax groupItem sales tax groupQuantityUnit priceUnitAmountInternally invoicedSegmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.</value>
+      <webElementGuid>00f1f48a-c1a1-45c1-adb7-ea26e93755b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LinesGrid_487_0_grid&quot;)/div[@class=&quot;fixedDataTableLayout_rowsContainer&quot;]</value>
+      <webElementGuid>a9301295-073b-4668-949e-a868975c9246</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LinesGrid_487_0_grid']/div</value>
+      <webElementGuid>8d2ce53e-9c00-4f64-8d77-6586b29d83eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy selected lines'])[1]/following::div[15]</value>
+      <webElementGuid>26ab2d76-66a1-4156-a317-492d21644e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes and attachments (0)'])[2]/following::div[22]</value>
+      <webElementGuid>a76c197a-e77d-45a1-b44d-df7739a85239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>3905b45a-bccb-4b61-8cb1-5bedf6873f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DescriptionMain accountSales tax groupItem sales tax groupQuantityUnit priceUnitAmountInternally invoicedSegmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.' or . = 'DescriptionMain accountSales tax groupItem sales tax groupQuantityUnit priceUnitAmountInternally invoicedSegmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.')]</value>
+      <webElementGuid>a391695f-69e3-4784-95ec-3e5794c861e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

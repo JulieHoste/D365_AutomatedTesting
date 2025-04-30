@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Collapse all</name>
+   <tag></tag>
+   <elementGuidId>12fea097-4733-4439-91f8-b937eaa1c869</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainPane']/div[5]/div/div[2]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.modulesFlyout-CollapseAll</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Collapse all&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e32810d2-c458-4f72-923c-64dad29985bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modulesFlyout-CollapseAll</value>
+      <webElementGuid>e579a69b-a9f2-4e63-8d38-d1304f96cc8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f72b7a41-552e-4ff9-92c3-320da6b1bc3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>26a2c28f-f906-4338-8ea8-70f992d6a1eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Collapse all</value>
+      <webElementGuid>221e9467-2489-41df-9de3-ba9a550deb20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Collapse all </value>
+      <webElementGuid>7b1dc77c-2042-4de0-9c2a-9c0dc5aa1de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainPane&quot;)/div[@class=&quot;modulesPane&quot;]/div[1]/div[@class=&quot;modulesPane-flyout slideInL&quot;]/div[@class=&quot;modulesFlyout dashboardTiles_wide&quot;]/div[@class=&quot;modulesFlyout-toolStrip&quot;]/button[@class=&quot;modulesFlyout-CollapseAll&quot;]</value>
+      <webElementGuid>827df70f-9bd4-4d23-b61a-5f57e5176fe4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[24]</value>
+      <webElementGuid>7d2a0fee-b8c6-416c-b93a-c2a4462d4f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainPane']/div[5]/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>f846fca9-d989-4451-945a-0e4202f9e4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand all'])[1]/following::button[1]</value>
+      <webElementGuid>9e22f8f3-54f0-4e0a-8da8-29ba7f7b775e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse management'])[1]/following::button[3]</value>
+      <webElementGuid>76f19b1b-5a26-4daf-850a-a9aba7bab5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workspaces'])[2]/preceding::button[1]</value>
+      <webElementGuid>91ff4388-767b-4cd6-ae7e-ea84f664ee28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendors'])[1]/preceding::button[1]</value>
+      <webElementGuid>e25d1280-1f6b-41ea-9830-3cea0b521229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Collapse all']/parent::*</value>
+      <webElementGuid>e315b239-9ad4-4056-b101-0f0b0c3c2ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[2]</value>
+      <webElementGuid>d88fc833-6e89-4f87-a8ee-714052690ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Collapse all' and (text() = 'Collapse all ' or . = 'Collapse all ')]</value>
+      <webElementGuid>37fc9cbe-bf87-4579-90e9-08bb7ab101e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

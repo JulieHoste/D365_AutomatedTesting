@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Already have a Katalon account Then si_a9abe4</name>
+   <tag></tag>
+   <elementGuidId>de1205e5-fca4-4ceb-b911-2c5a36b803d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cta-login-link > span.d-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='cta-login-link']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Already have a Katalon account? Then simply log in!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>708b8eac-9c86-4662-a3c0-656a8e52210e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-button-label</value>
+      <webElementGuid>7b9ad8dd-0008-4331-8d7c-dba7ca160a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Already have a Katalon account? Then simply log in!</value>
+      <webElementGuid>37d00942-ca18-4599-b9cf-2d351361245b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cta-login-link&quot;)/span[@class=&quot;d-button-label&quot;]</value>
+      <webElementGuid>1a9559c9-dc13-4aff-b8a4-7337af798dd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='cta-login-link']/span</value>
+      <webElementGuid>554c9d66-e4a7-4bda-a54d-dc1ff87f0206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up for a Katalon account'])[1]/following::span[1]</value>
+      <webElementGuid>467e6490-9e93-498f-a0e6-1475f17efce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Forums'])[1]/preceding::span[2]</value>
+      <webElementGuid>abef2d58-b852-4bd1-94a1-5b70a6a06280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Already have a Katalon account? Then simply log in!']/parent::*</value>
+      <webElementGuid>2c0d4b57-0d66-4837-ba97-f83736f006ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>78c30c96-bdb4-436d-a33e-fe5fb32a2f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Already have a Katalon account? Then simply log in!' or . = 'Already have a Katalon account? Then simply log in!')]</value>
+      <webElementGuid>151606b7-07f5-4fce-ab5a-4da42bd5859d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

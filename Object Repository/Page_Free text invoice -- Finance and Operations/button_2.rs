@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_2</name>
+   <tag></tag>
+   <elementGuidId>62a3736a-cc54-4b2d-9d6e-5e3f42e2a0b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#custfreeinvoicelistpage_5_84 > div.messageBar-collapseMessageRegion > button.messageBar-button.messageBar-collapseButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[25]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;2 Messages in list.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>468af639-6bce-47a9-9267-e32a5b7a996a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-controlname</name>
+      <type>Main</type>
+      <value>MessageBarToggle</value>
+      <webElementGuid>eaa54a48-66e2-4bd1-a421-c4ecf8c0b3cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>messageBar-button messageBar-collapseButton</value>
+      <webElementGuid>69c3c4ce-1b01-449f-9755-d068678a86dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3e7ad6dc-3961-4f79-8d25-177c13c7832b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>46f52812-1946-4abb-ac76-ca514931e885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+            visible: $data.IsToggleVisible,
+            click: $data.Toggle,
+            text: $data.CountText,
+            ariaExpanded: $data.Expanded,
+            title: $dyn.value($data.CountText) + ' ' + $label('MessageBox_MessageList'),
+            superTooltip: $dyn.ui.superTooltip($data),
+            attr: { 'aria-label': $dyn.value($data.CountText) + ' ' + $label('MessageBox_MessageList') },
+            keyDown: $data.onToggleKeyDown</value>
+      <webElementGuid>deb81e9d-aeca-4aae-9fe1-99905a686b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-lastvisible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0c0469e8-7484-4545-9a26-35e6f458a838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>dfa47284-178b-4789-b1d0-f01e271759dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>50f02e2e-1c47-45df-bd64-5a30e083d9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>2 Messages in list.</value>
+      <webElementGuid>a103eebb-6dd5-4eae-b80f-303346a7e763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-qtip-title</name>
+      <type>Main</type>
+      <value>2 Messages in list.</value>
+      <webElementGuid>5a0d6f8f-1533-429c-82a8-4650f8547aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-qtip-hastitleattr</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>533d0457-c05d-4ac3-98b7-1dd2eb232c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hasqtip</name>
+      <type>Main</type>
+      <value>superToolTip</value>
+      <webElementGuid>f3c872fb-b84b-4338-9fca-e112881c864f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>qtip-superToolTip</value>
+      <webElementGuid>a26f096a-ad12-4843-b2b6-70e6f18e4672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>e699b66a-227a-424a-8d43-8d178d75685b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custfreeinvoicelistpage_5_84&quot;)/div[@class=&quot;messageBar-collapseMessageRegion&quot;]/button[@class=&quot;messageBar-button messageBar-collapseButton&quot;]</value>
+      <webElementGuid>4228ab3c-0462-4e1c-8442-2cfb767cdab9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>a26f1e64-dc45-4bef-8f3c-73abced83f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custfreeinvoicelistpage_5_84']/div/button</value>
+      <webElementGuid>94a51c7f-713d-4b52-9966-47e14170f6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse management'])[1]/following::button[4]</value>
+      <webElementGuid>5a16652d-dd66-454f-90b6-406b6d8568db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor collaboration'])[1]/following::button[4]</value>
+      <webElementGuid>ff429663-3666-4501-a63f-4879b918106b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The free text invoice posting process is complete.'])[1]/preceding::button[2]</value>
+      <webElementGuid>0aa9bd74-5658-4d79-ab17-daf3aa6d4d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fix issues'])[1]/preceding::button[2]</value>
+      <webElementGuid>e1675717-8fea-49d0-8d6c-332e3cdfdf3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <webElementGuid>e9257b60-c49e-4370-bedf-d4113501b9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>2e21e5d2-bd40-4417-ba9f-7bcc18e7645c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '2' or . = '2')]</value>
+      <webElementGuid>010d872f-23c8-4dc8-b50f-95d6a208fd87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

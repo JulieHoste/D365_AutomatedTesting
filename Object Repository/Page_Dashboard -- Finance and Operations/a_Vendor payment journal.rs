@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vendor payment journal</name>
+   <tag></tag>
+   <elementGuidId>4456bc24-4978-4fff-8f99-c7b920be305a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainPane']/div[5]/div/div[2]/div/div[2]/div[11]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Vendor payment journal' or . = 'Vendor payment journal')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Vendor payment journal&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c18a07d-2a78-442a-876c-e8cebf644b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modulesFlyout-linkText</value>
+      <webElementGuid>12c4849b-c2e5-47a8-904f-e97e70149806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-title</name>
+      <type>Main</type>
+      <value>Vendor payment journal</value>
+      <webElementGuid>a14ab3d3-0ee7-4699-b1e1-d6df29285309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>08561963-929c-47ae-8490-9055d7e77968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vendor payment journal</value>
+      <webElementGuid>c7b83ae9-04bd-4b72-a436-f3aebeba3321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainPane&quot;)/div[@class=&quot;modulesPane&quot;]/div[1]/div[@class=&quot;modulesPane-flyout slideInL&quot;]/div[@class=&quot;modulesFlyout dashboardTiles_wide&quot;]/div[@class=&quot;modulesFlyout-container&quot;]/div[@class=&quot;modulesFlyout-link&quot;]/a[@class=&quot;modulesFlyout-linkText&quot;]</value>
+      <webElementGuid>a430e461-70d7-4dca-84c1-94c956723ea0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainPane']/div[5]/div/div[2]/div/div[2]/div[11]/a</value>
+      <webElementGuid>fc407d25-a18e-4c7a-bbd2-ce9673ad00fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Vendor payment journal')]</value>
+      <webElementGuid>790d67c5-d631-4b12-a35e-8962c0a61e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/following::a[1]</value>
+      <webElementGuid>71f5e33c-3597-456a-b12a-547887e5b348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices'])[1]/following::a[2]</value>
+      <webElementGuid>1ceb7948-d983-4050-a783-01f1f3c7aab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promissory notes'])[1]/preceding::a[8]</value>
+      <webElementGuid>a49a2342-fdaf-4c9c-bdb6-a1eb3766dc93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netting'])[1]/preceding::a[9]</value>
+      <webElementGuid>5592ca66-deb8-4499-b93e-e8ebea9fd5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vendor payment journal']/parent::*</value>
+      <webElementGuid>bebc81a9-26be-48ff-ac32-e679f6720e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/a</value>
+      <webElementGuid>ce3ce4aa-070e-4aa6-9f9b-3cb44ef3f508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Vendor payment journal' or . = 'Vendor payment journal')]</value>
+      <webElementGuid>db354bd7-e863-41a7-9134-d1834c3fc0d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

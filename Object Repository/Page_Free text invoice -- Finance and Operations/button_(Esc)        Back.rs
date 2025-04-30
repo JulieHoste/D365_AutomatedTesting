@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_(Esc)        Back</name>
+   <tag></tag>
+   <elementGuidId>12ff8de9-0549-46b9-b0f1-ac22379a855d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#custfreeinvoicelistpage_5_SystemDefinedCloseButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='custfreeinvoicelistpage_5_SystemDefinedCloseButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Back&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ed51d826-54aa-4bdc-956d-1dce522cdab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-serverid</name>
+      <type>Main</type>
+      <value>934_0</value>
+      <webElementGuid>ff0c91c3-ca7f-4ffe-9514-64b2ab47c049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-rootserverid</name>
+      <type>Main</type>
+      <value>585_0</value>
+      <webElementGuid>ec481bed-22ca-4fda-9730-b03f49279669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-controlname</name>
+      <type>Main</type>
+      <value>SystemDefinedCloseButton</value>
+      <webElementGuid>a922a37f-4d62-4e66-8aec-079230fcb043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-role</name>
+      <type>Main</type>
+      <value>CommandButton</value>
+      <webElementGuid>fc1f00e7-561a-44cf-9b98-f3c9dae6205f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Auto button dynamicsButton</value>
+      <webElementGuid>85a0ca42-6ede-41cc-9819-50bb925ea79a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f1b76452-2603-4155-99ff-517b0215fc83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+    visible: $data.Visible,
+    enabled: $data.Enabled,
+    click: { callBack: $data.Clicked, optOutOfAllowSave: true },
+    keyDown: $data.keyDown,
+    ariaPressed: $data.Toggled,
+    skip: $dyn.ui.skip($data),
+    superTooltip: $dyn.ui.superTooltip($data),
+    attr: {
+        'name': $data.Name,
+        'data-dyn-button-display': $data.buttonDisplay,
+    },
+    sizing: $dyn.layout.sizing($data),
+    css: {
+        'button-isDefault' : $data.DefaultButton,
+        'button-attachment-count' : $dyn.value($data.IsLabelBubble)
+    }</value>
+      <webElementGuid>d8d077fa-21dc-40e2-a1e2-3746546a0fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-template-applied</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c253ffb1-25e8-4f29-bd20-32de510bd346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>command</name>
+      <type>Main</type>
+      <value>PreviousView</value>
+      <webElementGuid>09b57dd2-97d9-48db-a788-c679f0c7348e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>buttonstyle</name>
+      <type>Main</type>
+      <value>Auto</value>
+      <webElementGuid>53adffd1-e707-4052-8fb1-85d7709423da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Back</value>
+      <webElementGuid>8b9d3478-8ed8-4436-9b1f-730d239befc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>custfreeinvoicelistpage_5_SystemDefinedCloseButton</value>
+      <webElementGuid>8fe23998-cb7f-45ae-a342-f11dfad7c414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-lastvisible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f4c1dfdf-25dc-43c6-808d-b2818f1ea107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ecb57ad4-fcd7-4303-8ebc-99bcbee66b28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e063e803-7acb-48c0-9fd2-438fce1b2b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SystemDefinedCloseButton</value>
+      <webElementGuid>e9ac0b62-179a-4d88-bc7c-8670e369a762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-button-display</name>
+      <type>Main</type>
+      <value>ImageOnly</value>
+      <webElementGuid>dad448b7-5499-4651-bbfe-d1b545209a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hasqtip</name>
+      <type>Main</type>
+      <value>superToolTip</value>
+      <webElementGuid>e11a6453-f6fa-444c-a6c2-7308ad25103d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+        (Esc)
+        Back
+    </value>
+      <webElementGuid>741e803d-e112-48b3-99dd-92d9faf3f068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custfreeinvoicelistpage_5_SystemDefinedCloseButton&quot;)</value>
+      <webElementGuid>1b1b56eb-38e2-4327-aa44-3c5f33f08333</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='custfreeinvoicelistpage_5_SystemDefinedCloseButton']</value>
+      <webElementGuid>6ac9eb7a-6a81-49e8-bb56-b13f7e67f3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custfreeinvoicelistpage_5_SysCloseGroup']/button</value>
+      <webElementGuid>51c2ccd9-e294-48fe-8eff-71133a0fcfb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse management'])[1]/following::button[2]</value>
+      <webElementGuid>130d15fe-4d75-4dbd-9455-5882b143c53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor collaboration'])[1]/following::button[2]</value>
+      <webElementGuid>aa09b533-1616-4c88-92b4-e3099337a305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div/div[2]/button</value>
+      <webElementGuid>1316e72f-81ec-457e-a079-8ce842372633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'custfreeinvoicelistpage_5_SystemDefinedCloseButton' and @name = 'SystemDefinedCloseButton' and (text() = '
+        
+        (Esc)
+        Back
+    ' or . = '
+        
+        (Esc)
+        Back
+    ')]</value>
+      <webElementGuid>be4ef291-4bda-4454-b011-549311996875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Custom_lookupButton</name>
+   <tag></tag>
+   <elementGuidId>613cbf3e-6f69-4898-8631-dffd28f48467</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.lookupDock-dockContainer.lookupDock-comboBox.displayoption.hasFocusedChild > div.lookupDock-buttonContainer.layout-ignoreArrange > div.lookupButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#custfreeinvoicelistpage_6_FilterInvoiceDate div >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f91edf3e-4f09-4468-a9db-5cba65b5f5f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lookupButton</value>
+      <webElementGuid>34501362-4985-4cf4-9cad-21c620988025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2ee109ad-2181-4005-99fc-26e0ec0ddbc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>173a0140-8062-45dc-9c14-12ea5ffd2d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+                title: $dyn.label('Input_LookupTooltip'),
+                superTooltip: $dyn.ui.superTooltip($data),
+                attr: { 'data-dyn-helptext': $dyn.label('Input_LookupHelpText') },
+                flyout: {
+                    skipAria: true, flyout: $($element).parent().parent().find('.comboBox-list'), of: $($element).parent().parent(),
+                    show: $data.isExpanded, positionResize: true, takeFocus: false, clickSubscriber: $data.flyoutClickSubscriber,
+                    optOutOfWait: true, escapeSubscriber: $data.flyoutEscapeSubscriber
+                }</value>
+      <webElementGuid>c112090e-438d-4c9a-9580-68956e27b476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8c4317c4-e961-4e9f-beb5-63d37942b91d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-helptext</name>
+      <type>Main</type>
+      <value>(Alt+Down)</value>
+      <webElementGuid>29d7f954-7508-413c-85d5-6617ee61b019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-qtip-title</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>f0ee42a1-5ef4-4430-ad66-235c9a4f210e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-qtip-hastitleattr</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>88d127c0-c7c4-4c64-a0d2-6372143cd58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hasqtip</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>50322afa-b304-4c73-ab90-3bdef7a48457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custfreeinvoicelistpage_6_FilterInvoiceDate&quot;)/div[@class=&quot;lookupDock-dockContainer lookupDock-comboBox displayoption hasFocusedChild&quot;]/div[@class=&quot;lookupDock-buttonContainer layout-ignoreArrange&quot;]/div[@class=&quot;lookupButton&quot;]</value>
+      <webElementGuid>37d822d0-5878-4124-83a1-69210bf4c459</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custfreeinvoicelistpage_6_FilterInvoiceDate']/div/div[2]/div</value>
+      <webElementGuid>0d0aa8c8-90c0-4888-8382-d9e64df1c521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[1]/following::div[2]</value>
+      <webElementGuid>b693a6c0-0024-47a2-b9b2-c7f4cf88ff06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After the lookup is open, you can use Alt+Down to move focus into the lookup.'])[3]/following::div[2]</value>
+      <webElementGuid>c0b36b89-c982-4d07-89f7-ab48982bb359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice'])[2]/preceding::div[14]</value>
+      <webElementGuid>ec56fd27-cbd6-4b11-bbf5-dd610607a7f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer account'])[2]/preceding::div[24]</value>
+      <webElementGuid>f1824439-1fb9-44b5-8aa9-b42f6eb6737e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div/div[2]/div</value>
+      <webElementGuid>69fed137-c064-42d4-a18e-03f708921a95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Batch booking parameter_SysOperationTe_8095c8</name>
+   <tag></tag>
+   <elementGuidId>ae5f6f4c-c4db-444d-b69c-4ff1d21b6909</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SysOperationTemplateForm_15_Fld1_1_toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch booking parameter'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=switch[name=&quot;Batch booking&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>993959a4-6599-4c8c-ae60-63f601fbed42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle-box</value>
+      <webElementGuid>eadce750-4ba1-45d0-b8f7-f4499463ca8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>switch</value>
+      <webElementGuid>475173d7-1c31-46a5-8d38-3ef6d7649b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+            ariaEnabled : $data.Enabled,
+            allowEdit: $data.AllowEdit,
+            click: $data.clickHandler,
+            skip: $dyn.ui.skip($data),
+            checked: $data.formattedValue,
+            id: $data.Id + '_toggle',
+            superTooltip: $dyn.ui.superTooltip($data, true, true),
+            ariaLabelledBy: { byElementId: $data.Id + '_label', showLabel: $data.ShowLabel, isInGrid: $data._isInGrid },
+            attr: { 'aria-describedby': $dyn.ui.getDescribedByData($data) }</value>
+      <webElementGuid>290fe01c-8525-4169-a167-154a06383f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bbb8d9c3-2942-4f68-b40f-c6fbea855497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>80ece4a4-a6c5-4d06-8673-ab83eeb7bffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SysOperationTemplateForm_15_Fld1_1_toggle</value>
+      <webElementGuid>72bcc354-8b9a-49ed-b92f-275df1fea5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c547c72f-f9e8-4276-a123-5229e6fcdaa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip-skip-overflow</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6ca216eb-901f-440b-8cdd-3e0ea0bef890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>SysOperationTemplateForm_15_Fld1_1_label</value>
+      <webElementGuid>8aba7de0-4ba3-4a31-9e39-af26cfa94e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>SysOperationTemplateForm_15_Fld1_1_helptext</value>
+      <webElementGuid>9ebbfbc6-d136-4887-ba79-90898525af48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SysOperationTemplateForm_15_Fld1_1_toggle&quot;)</value>
+      <webElementGuid>db4812cb-ce77-4c10-9297-e59932d53125</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='SysOperationTemplateForm_15_Fld1_1_toggle']</value>
+      <webElementGuid>8e5697f7-9ffb-4f4b-954a-76128dd2cc6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='SysOperationTemplateForm_15_Fld1_1']/div/span</value>
+      <webElementGuid>a9985169-21f6-45a4-b2b7-28928471f70e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch booking parameter'])[1]/following::span[1]</value>
+      <webElementGuid>9453e014-4be6-4dd3-b950-e8bb10ae474a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch booking'])[1]/following::span[3]</value>
+      <webElementGuid>53fac70c-27c1-4db2-85e2-069bdf97b7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::span[2]</value>
+      <webElementGuid>4238393b-941b-4990-92a3-a17ae9e7ff4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format'])[1]/preceding::span[3]</value>
+      <webElementGuid>db9b73fd-85d1-4ab6-9970-a95570aa0133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/div/span</value>
+      <webElementGuid>eee72d14-6e68-41bf-a1c1-d53798e3d984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'SysOperationTemplateForm_15_Fld1_1_toggle']</value>
+      <webElementGuid>9588022b-278a-4116-b5e5-2caa016dafbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

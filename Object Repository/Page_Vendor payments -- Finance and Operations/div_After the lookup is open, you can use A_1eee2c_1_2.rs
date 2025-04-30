@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_After the lookup is open, you can use A_1eee2c_1_2</name>
+   <tag></tag>
+   <elementGuidId>aa5fc505-0d2a-44d1-886e-2c24e2e92033</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Dialog_12_Fld9_1 > div.lookupDock-buttonContainer.layout-ignoreArrange > div.lookupButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='After the lookup is open, you can use Alt+Down to move focus into the lookup.'])[2]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#Dialog_12_Fld9_1 div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82903caf-f5d7-4a0b-82e2-ec1cb8e91598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lookupButton</value>
+      <webElementGuid>cfa19bbd-8b9d-4838-bb4b-e7d1dcebba02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c593db90-c695-4b9a-8e74-32e5db08dcfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c350883c-f5b0-4a65-8c97-70f10d5704b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+            title: $dyn.label('Input_LookupTooltip'),
+            superTooltip: $dyn.ui.superTooltip($data),
+            attr: { 'data-dyn-helptext': $dyn.label('Input_LookupHelpText') },
+            flyout: {
+                skipAria: true, focusTarget: $data.FindFocusTarget, takeFocus: $data.ShouldFlyoutTakeFocus, requestPopup: $data.showPopup,
+                of: $data.$inputElement, show: $data.ShowFlyout, positionResize: true, highlyResponsive: true, routeMessagesToParent: true, popupId: $data.popupId
+            }</value>
+      <webElementGuid>713d329c-afcb-4410-8d6d-74ff23526659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-stop-binding</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b9a279f1-cb4b-4df9-baba-6a9b932ec4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d9f411b8-ac8b-49e2-a66d-7581ea8d7902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-helptext</name>
+      <type>Main</type>
+      <value>(Alt+Down)</value>
+      <webElementGuid>b25bd0cf-5376-46aa-be11-578ff038e142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-qtip-title</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>365a584d-e827-41b1-ba7b-35bba75e7510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-qtip-hastitleattr</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>92026dd3-484f-4062-b2d7-56b198796d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Dialog_12_Fld9_1&quot;)/div[@class=&quot;lookupDock-buttonContainer layout-ignoreArrange&quot;]/div[@class=&quot;lookupButton&quot;]</value>
+      <webElementGuid>794730b4-74cf-467e-b6c1-c6887bddf4b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Dialog_12_Fld9_1']/div/div</value>
+      <webElementGuid>57650ea6-3ab9-4869-9aac-0b3dc054d249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After the lookup is open, you can use Alt+Down to move focus into the lookup.'])[2]/following::div[2]</value>
+      <webElementGuid>6a8d2243-4694-4d48-bdbe-85e8b699d813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Method of payment'])[2]/following::div[2]</value>
+      <webElementGuid>1ccbcc96-7eb6-4440-8c6e-3c7101f079ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File name'])[1]/preceding::div[1]</value>
+      <webElementGuid>897a4ff5-d928-4f3d-9c7e-821c6e7df5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export format'])[1]/preceding::div[3]</value>
+      <webElementGuid>4b941759-8874-42b2-a08f-8cc0a35ef8bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>c8d3a8ba-1625-4cc7-9a7c-2e456e5022eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

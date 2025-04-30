@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>D365 - Log In</name>
+   <tag>D365</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76064ba5-ed8a-4116-8271-301d59aae5a0</testCaseGuid>
+</TestCaseEntity>

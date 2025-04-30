@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>3a76d2f1-779b-4bcf-971e-45970c55ecae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#CustInvoiceLine_TaxGroup_487_0_0 > div.dyn-container._77u0y8 > div.dyn-container._8b669f.dyn-svg-symbol.dyn-lookup-button > svg._cwvim4 > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Sales tax group Open&quot;s] >> internal:attr=[title=&quot;Open&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>06e3c808-ff3c-4d81-bf92-6795af936324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M37.77,12.78l1.58,1.58L21.69,32,4,14.36,5.6,12.78,21.69,28.87Z</value>
+      <webElementGuid>880fe8b2-b03d-4947-b62e-e5f266ef0528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CustInvoiceLine_TaxGroup_487_0_0&quot;)/div[@class=&quot;dyn-container _77u0y8&quot;]/div[@class=&quot;dyn-container _8b669f dyn-svg-symbol dyn-lookup-button&quot;]/svg[@class=&quot;_cwvim4&quot;]/path[1]</value>
+      <webElementGuid>3cc0ba39-506f-4a12-bed1-601d160a9dc7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS - D365 - Support</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8b9d2ba5-5a52-4d9d-ac2c-96b0cf7fe4b9</testSuiteGuid>
+   <testCaseLink>
+      <guid>49dd2866-6994-4a78-bda6-be32410f9555</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/D365 - Free Text Invoice - Add a line</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6f5020c3-682c-4180-ae9c-e26d756ce875</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Environment - Credentials (Continuous updates)</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6f5020c3-682c-4180-ae9c-e26d756ce875</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>dd7242ca-3382-4f34-82d6-4ebbb697012a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6f5020c3-682c-4180-ae9c-e26d756ce875</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>fae7451b-9c81-42f6-ae70-d47dee7c8383</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6f5020c3-682c-4180-ae9c-e26d756ce875</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>7f96a437-2758-452d-92df-43327b82a2ad</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6f5020c3-682c-4180-ae9c-e26d756ce875</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HomeUrl</value>
+         <variableId>40eb96d8-1694-439c-aca4-37047d95d26d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

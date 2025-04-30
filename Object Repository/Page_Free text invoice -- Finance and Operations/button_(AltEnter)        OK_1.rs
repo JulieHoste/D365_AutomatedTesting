@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_(AltEnter)        OK_1</name>
+   <tag></tag>
+   <elementGuidId>c1f65908-3d6c-4f90-b544-58281b03ad5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#CustPostInvoiceJob_9_OK</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='CustPostInvoiceJob_9_OK']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;OK&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb45f8f0-2114-4376-a58a-0a20f7eb7d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-serverid</name>
+      <type>Main</type>
+      <value>1414_0</value>
+      <webElementGuid>03a5867e-ea81-4d6f-8d4a-4ac214ce0628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-rootserverid</name>
+      <type>Main</type>
+      <value>1350_0</value>
+      <webElementGuid>deaec47f-92fc-4751-879e-d1b12cc1ab68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-controlname</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>d386edef-c303-4603-8d8d-ba463b932acd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-role</name>
+      <type>Main</type>
+      <value>CommandButton</value>
+      <webElementGuid>cbad17ed-9ca1-4c36-a566-daf1a9c86ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Auto button dynamicsButton button-isDefault</value>
+      <webElementGuid>7a251be9-1d80-4dc2-b6a2-1679eee18cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa580ea9-cfcc-4f51-80c9-82dcf907d278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+    visible: $data.Visible,
+    enabled: $data.Enabled,
+    click: { callBack: $data.Clicked, optOutOfAllowSave: true },
+    keyDown: $data.keyDown,
+    ariaPressed: $data.Toggled,
+    skip: $dyn.ui.skip($data),
+    superTooltip: $dyn.ui.superTooltip($data),
+    attr: {
+        'name': $data.Name,
+        'data-dyn-button-display': $data.buttonDisplay,
+    },
+    sizing: $dyn.layout.sizing($data),
+    css: {
+        'button-isDefault' : $data.DefaultButton,
+        'button-attachment-count' : $dyn.value($data.IsLabelBubble)
+    }</value>
+      <webElementGuid>2e70813c-ba43-4037-8e4f-d3c32032d890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-template-applied</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c51f3782-92a6-4211-8e23-b644341e0dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>buttonstyle</name>
+      <type>Main</type>
+      <value>Auto</value>
+      <webElementGuid>51106c0c-9d70-4e73-a9d5-3c6a0e0db596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CustPostInvoiceJob_9_OK</value>
+      <webElementGuid>2f3889ee-38fe-4e11-89d2-614a26a90914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-lastvisible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6c835d18-3740-407a-b49b-c5c71b4374a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bb90ced8-417d-40e7-ae9d-e77f3835e61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e1c61086-6794-4138-b65d-87982bbc71a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>6ae44bdb-572d-4699-ad8d-ce5cdc8acdf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-button-display</name>
+      <type>Main</type>
+      <value>TextOnly</value>
+      <webElementGuid>ed9fd773-9abd-4ed7-9e8a-b12507263b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hasqtip</name>
+      <type>Main</type>
+      <value>superToolTip</value>
+      <webElementGuid>9adca436-6128-40ea-9181-291b368cccaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>qtip-superToolTip</value>
+      <webElementGuid>218c69c9-1d0a-4208-93c1-cec650b8ba1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+        (Alt+Enter)
+        OK
+    </value>
+      <webElementGuid>2dbbb140-f593-4b8b-a719-97be356663a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CustPostInvoiceJob_9_OK&quot;)</value>
+      <webElementGuid>1f1aa1ec-71be-4b0b-9326-6f67cf4271df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='CustPostInvoiceJob_9_OK']</value>
+      <webElementGuid>e1aacbf1-32c0-43ca-87a8-091ed04bec62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CustPostInvoiceJob_9_BottomButtonGrp']/div[2]/button</value>
+      <webElementGuid>5a82034c-283f-47df-a0c0-9e34261710af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Run in the background'])[1]/following::button[1]</value>
+      <webElementGuid>1da4f694-6b02-4814-bb4b-4f1365cf75f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/following::button[2]</value>
+      <webElementGuid>730ae76d-0bc0-4ae9-b6e8-d0f783f9b905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]/div[2]/button</value>
+      <webElementGuid>d1781327-7b16-4487-a606-4275d94b59ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'CustPostInvoiceJob_9_OK' and @name = 'OK' and (text() = '
+        
+        (Alt+Enter)
+        OK
+    ' or . = '
+        
+        (Alt+Enter)
+        OK
+    ')]</value>
+      <webElementGuid>309a3a76-0888-4bbb-acfe-f0299b812006</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

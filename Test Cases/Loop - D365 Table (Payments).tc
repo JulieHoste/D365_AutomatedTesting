@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Loop - D365 Table (Payments)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8bfe812a-4062-4c95-a013-90d4b877fb6d</testCaseGuid>
+</TestCaseEntity>

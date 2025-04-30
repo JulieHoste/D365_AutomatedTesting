@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_(AltEnter)        OK_1_2</name>
+   <tag></tag>
+   <elementGuidId>1f546a4d-2f5b-4d57-a3d6-a011d7e8b76f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SysOperationTemplateForm_15_CommandButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Run in the background'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;OK&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7080eec-b183-4daf-bc3d-4366bc328a07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-serverid</name>
+      <type>Main</type>
+      <value>1099_0</value>
+      <webElementGuid>69f9786f-7ca3-45db-96d0-fede21de1b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-rootserverid</name>
+      <type>Main</type>
+      <value>1076_0</value>
+      <webElementGuid>869dde30-4817-4593-a01a-7f69f4b528c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-controlname</name>
+      <type>Main</type>
+      <value>CommandButton</value>
+      <webElementGuid>dee1b634-0697-42fd-ac97-5cd5d752f7c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-role</name>
+      <type>Main</type>
+      <value>CommandButton</value>
+      <webElementGuid>22b71327-7020-4266-9644-baf9640086de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Auto button dynamicsButton button-isDefault</value>
+      <webElementGuid>bdab4725-b071-4c83-a4dc-3874cf28c25b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a72d6a80-5df2-4ea5-9de8-49f78db67e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+    visible: $data.Visible,
+    enabled: $data.Enabled,
+    click: { callBack: $data.Clicked, optOutOfAllowSave: true },
+    keyDown: $data.keyDown,
+    ariaPressed: $data.Toggled,
+    skip: $dyn.ui.skip($data),
+    superTooltip: $dyn.ui.superTooltip($data),
+    attr: {
+        'name': $data.Name,
+        'data-dyn-button-display': $data.buttonDisplay,
+    },
+    sizing: $dyn.layout.sizing($data),
+    css: {
+        'button-isDefault' : $data.DefaultButton,
+        'button-attachment-count' : $dyn.value($data.IsLabelBubble)
+    }</value>
+      <webElementGuid>8cddcbfa-0713-4432-a3ed-965fbd9cda52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-template-applied</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e74b3f27-b30a-42d9-b584-bd5dbb0aec2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>buttonstyle</name>
+      <type>Main</type>
+      <value>Auto</value>
+      <webElementGuid>25808479-45a3-4908-89a9-ec1129e968de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SysOperationTemplateForm_15_CommandButton</value>
+      <webElementGuid>5787f84d-f225-498c-8a23-18e9e38f45dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-lastvisible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ec17a756-2c83-48a0-8ea5-81f73f478881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>86962f9d-7bd0-465d-a584-84f30f07a98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>805d2c02-41c9-4617-9892-3c677f1d446f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>CommandButton</value>
+      <webElementGuid>cb6edbd6-6edb-40c2-8102-dd48aa107406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-button-display</name>
+      <type>Main</type>
+      <value>Auto</value>
+      <webElementGuid>c9b32b1a-c291-4fac-ad0c-29a783a2dbcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hasqtip</name>
+      <type>Main</type>
+      <value>superToolTip</value>
+      <webElementGuid>32d92628-d63b-460b-a135-2989c30c9705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>qtip-superToolTip</value>
+      <webElementGuid>9fdb2fe6-3990-4bac-872d-1fe9c6648c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+        (Alt+Enter)
+        OK
+    </value>
+      <webElementGuid>9d7be92a-4cdc-48f9-acde-c5ee4efa9dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SysOperationTemplateForm_15_CommandButton&quot;)</value>
+      <webElementGuid>b6aec81a-7af6-464c-905f-8d32ed306f6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='SysOperationTemplateForm_15_CommandButton']</value>
+      <webElementGuid>7cfaf3d9-dab0-4067-b3d6-a4e460cfa84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SysOperationTemplateForm_15_BottomButtonGrp']/div[2]/button</value>
+      <webElementGuid>90c22aa8-ee4b-4f86-b8f8-2cc6243042cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Run in the background'])[1]/following::button[1]</value>
+      <webElementGuid>50930d8e-0355-42e8-b7c3-d4b4df178043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/following::button[2]</value>
+      <webElementGuid>7dae83c1-ba9c-4c32-b6bd-0e7c8a26ae27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>6853137a-ae96-49fb-b740-fb4df929953b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'SysOperationTemplateForm_15_CommandButton' and @name = 'CommandButton' and (text() = '
+        
+        (Alt+Enter)
+        OK
+    ' or . = '
+        
+        (Alt+Enter)
+        OK
+    ')]</value>
+      <webElementGuid>2295c739-77d9-4f43-8f14-a5a49501d61e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

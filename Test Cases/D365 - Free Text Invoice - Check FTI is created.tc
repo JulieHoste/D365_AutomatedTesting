@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>D365 - Free Text Invoice - Check FTI is created</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b198b14-fbcb-4028-9873-659a5989cd57</testCaseGuid>
+</TestCaseEntity>

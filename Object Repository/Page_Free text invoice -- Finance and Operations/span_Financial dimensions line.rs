@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Financial dimensions line</name>
+   <tag></tag>
+   <elementGuidId>a4fcb8c6-7f27-40c1-bb1a-d9cdb25d1904</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#custfreeinvoicelistpage_5_CVInvoiceDetailsDimensionLinesTabPage_header > span.pivot-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='custfreeinvoicelistpage_5_CVInvoiceDetailsDimensionLinesTabPage_header']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Financial dimensions line&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7886f2c6-3d0b-4f3d-ba5e-85fe22f7e78e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pivot-label</value>
+      <webElementGuid>83c6926e-38a7-4213-917a-8316586d160b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+                    text: { text: $dyn.value($data.Label), emptyStr: ' ' }, /* Use non-breaking space to maintain height when using an empty string. */</value>
+      <webElementGuid>b592f8a2-be84-4a2c-8316-8c66829333b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Financial dimensions line</value>
+      <webElementGuid>ea195627-bee0-4768-82c3-82b00807aac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custfreeinvoicelistpage_5_CVInvoiceDetailsDimensionLinesTabPage_header&quot;)/span[@class=&quot;pivot-label&quot;]</value>
+      <webElementGuid>3746f99d-d358-4ebe-850d-b7fc4fc9647b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='custfreeinvoicelistpage_5_CVInvoiceDetailsDimensionLinesTabPage_header']/span</value>
+      <webElementGuid>982aba1c-204b-4c1b-a1cb-59a727bd5dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foreign trade'])[1]/following::span[1]</value>
+      <webElementGuid>14928f18-368a-43bd-8680-d3855de1f266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reasons'])[1]/following::span[2]</value>
+      <webElementGuid>837a633c-fdc2-42e5-abfd-4ad4853e6b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice text'])[1]/preceding::span[1]</value>
+      <webElementGuid>7a391432-557c-40cc-8aee-e42fc44cfe63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed asset number'])[1]/preceding::span[4]</value>
+      <webElementGuid>2ae8285d-2a37-473d-a78b-44f9a47acbb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Financial dimensions line']/parent::*</value>
+      <webElementGuid>9ae006f5-c5af-4725-9d84-cc0226acbf46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/span</value>
+      <webElementGuid>b6572263-3cae-491a-bfec-cbc73412f4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Financial dimensions line' or . = 'Financial dimensions line')]</value>
+      <webElementGuid>cff5457f-984f-4ac6-a2be-84b95aa09ea0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

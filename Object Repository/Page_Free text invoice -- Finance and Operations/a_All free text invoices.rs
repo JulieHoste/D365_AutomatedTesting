@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_All free text invoices</name>
+   <tag></tag>
+   <elementGuidId>de31528b-4e75-4643-879d-7780b30df98e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainPane']/div[5]/div/div[2]/div/div[2]/div[13]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;All free text invoices&quot;i >> internal:text=&quot;All free text invoices&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db830c89-ee61-41ce-a8b8-d94fb574f91b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modulesFlyout-linkText</value>
+      <webElementGuid>4fc5aed6-2dcd-4a12-8486-d341dff1da32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-title</name>
+      <type>Main</type>
+      <value>All free text invoices</value>
+      <webElementGuid>1a306eaa-8f30-4972-aee9-91542b480b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e2f27d46-1e7f-4da9-a818-cec25ce63229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All free text invoices</value>
+      <webElementGuid>4f17c53f-d6eb-4103-90b2-04ed81902925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainPane&quot;)/div[@class=&quot;modulesPane&quot;]/div[1]/div[@class=&quot;modulesPane-flyout slideInL&quot;]/div[@class=&quot;modulesFlyout dashboardTiles_wide&quot;]/div[@class=&quot;modulesFlyout-container&quot;]/div[@class=&quot;modulesFlyout-link&quot;]/a[@class=&quot;modulesFlyout-linkText&quot;]</value>
+      <webElementGuid>49b1c817-a799-4c39-b365-37e718726b6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainPane']/div[5]/div/div[2]/div/div[2]/div[13]/a</value>
+      <webElementGuid>b236c689-7d1a-435c-85ea-4014d69072ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'All free text invoices')]</value>
+      <webElementGuid>dcb815f0-8132-4e79-b828-7730ce1e1cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices'])[2]/following::a[3]</value>
+      <webElementGuid>6d0ed195-6563-4462-a03d-190a4b223a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/following::a[18]</value>
+      <webElementGuid>ec5c902c-0f06-4910-8f51-eb9680431341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch invoicing'])[1]/preceding::a[10]</value>
+      <webElementGuid>9e26957d-8c5a-4324-8a51-9fcedbca2ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurring invoices'])[1]/preceding::a[11]</value>
+      <webElementGuid>4618a42f-9970-4671-8fc5-6da66eadeffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/a</value>
+      <webElementGuid>e7aef42e-f182-4908-94a6-4cdc25d3b978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'All free text invoices' or . = 'All free text invoices')]</value>
+      <webElementGuid>0ffe773b-3dcf-4133-bbc4-6becaed6c9ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

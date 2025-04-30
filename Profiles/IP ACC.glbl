@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>IP ACC</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hostej@delawareconsulting.com'</initValue>
+      <name>Gebruikersnaam</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Alexiegilles22!'</initValue>
+      <name>Wachtwoord</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://dlw-ip-qa.operations.eu.dynamics.com/?cmp=bel&amp;mi=DefaultDashboard'</initValue>
+      <name>HomeURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
