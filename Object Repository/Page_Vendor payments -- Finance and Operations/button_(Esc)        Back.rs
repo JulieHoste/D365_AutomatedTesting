@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#LedgerJournalTransVendPaym_4_SystemDefinedCloseButton</value>
+         <value>#LedgerJournalTransVendPaym_10_SystemDefinedCloseButton</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='LedgerJournalTransVendPaym_4_SystemDefinedCloseButton']</value>
+         <value>//*[@id=&quot;LedgerJournalTransVendPaym_3_SystemDefinedCloseButton&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>21f5fad6-0338-49bc-9e0e-fc66ab7b38ee</webElementGuid>
+      <webElementGuid>3f537aef-e9d4-4470-aee6-6d42e30dedc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-serverid</name>
       <type>Main</type>
-      <value>493_0</value>
-      <webElementGuid>ad356e8b-b1e2-4fb5-b245-165f06717157</webElementGuid>
+      <value>905_0</value>
+      <webElementGuid>9c8ae6e0-1f42-455a-9a13-8820ddba1247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-rootserverid</name>
       <type>Main</type>
-      <value>303_0</value>
-      <webElementGuid>774373d0-7e10-4762-894f-b6ec9b266ea8</webElementGuid>
+      <value>743_0</value>
+      <webElementGuid>47da4c8f-52fb-487f-bf02-4fddb90bef66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-dyn-controlname</name>
       <type>Main</type>
       <value>SystemDefinedCloseButton</value>
-      <webElementGuid>f931f519-af61-427b-b35b-deb931d4ad1e</webElementGuid>
+      <webElementGuid>4a6d3212-90ac-4705-ace3-fe2761bc09c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-dyn-role</name>
       <type>Main</type>
       <value>CommandButton</value>
-      <webElementGuid>46f0ce50-750b-4e74-aceb-68333f41790a</webElementGuid>
+      <webElementGuid>adb53bd3-9eb9-46a4-8ff5-d06895e45385</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Auto button dynamicsButton</value>
-      <webElementGuid>48575df7-8234-4833-8d1f-b52ec8e01d8c</webElementGuid>
+      <webElementGuid>c4c11874-32a0-4de6-a49f-9eb289700970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bdf77b71-7160-492b-820a-eb3e397dcbe9</webElementGuid>
+      <webElementGuid>fdc7e5dc-ee58-499e-bc2a-c6fcf69d938c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
         'button-isDefault' : $data.DefaultButton,
         'button-attachment-count' : $dyn.value($data.IsLabelBubble)
     }</value>
-      <webElementGuid>6a348cac-6ea6-4068-b116-766209cbc250</webElementGuid>
+      <webElementGuid>0bdc3cab-4cf7-40ce-84fd-3f21460678c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>data-dyn-template-applied</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>681003a6-3f01-4921-8f21-2102e347c3b7</webElementGuid>
+      <webElementGuid>e8812e5e-720d-4e41-920d-dab8002acb18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>command</name>
       <type>Main</type>
       <value>PreviousView</value>
-      <webElementGuid>7de817fe-25e6-458b-aa8c-54757028a236</webElementGuid>
+      <webElementGuid>2463307b-e904-4831-8139-47c2e7223ab4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>buttonstyle</name>
       <type>Main</type>
       <value>Auto</value>
-      <webElementGuid>4b8169c3-6e5e-4851-9312-097749970133</webElementGuid>
+      <webElementGuid>ac691b5a-0729-4bd1-9e8e-599051b844da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Back</value>
-      <webElementGuid>af4c86e0-1406-4250-b413-e26289dfa5a9</webElementGuid>
+      <webElementGuid>e86feb75-7569-40f3-96f8-5b9896bfe0b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,15 +141,15 @@
       <name>dyn-data-optional-label</name>
       <type>Main</type>
       <value>Back</value>
-      <webElementGuid>8b1b2a8c-91b4-480d-8a04-27fab189ae6d</webElementGuid>
+      <webElementGuid>ed0f8a59-72ee-462e-89e5-68720cb68543</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>LedgerJournalTransVendPaym_4_SystemDefinedCloseButton</value>
-      <webElementGuid>86b642fc-4a19-45e2-85f5-50024828ebc9</webElementGuid>
+      <value>LedgerJournalTransVendPaym_10_SystemDefinedCloseButton</value>
+      <webElementGuid>d08c6a75-e85b-4fb4-8ad9-27f2d1188779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>data-dyn-lastvisible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>02aace6f-1bde-4d11-983f-ff701bd8c3b0</webElementGuid>
+      <webElementGuid>515a26b3-e6eb-4432-9180-eb2f73c93b29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>48530069-c244-4dbf-a7fb-efb508dfbee2</webElementGuid>
+      <webElementGuid>fdc82bef-963d-45fb-a6db-4bf643aa5028</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>dyn-data-supertooltip</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7cf2197c-c918-4b35-8f99-88e92a41fcac</webElementGuid>
+      <webElementGuid>071514be-19ea-4541-b505-2619be314d8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -181,7 +181,7 @@
       <name>name</name>
       <type>Main</type>
       <value>SystemDefinedCloseButton</value>
-      <webElementGuid>6866a355-9570-41a1-aa33-ecdbde8d2fcb</webElementGuid>
+      <webElementGuid>d15a17e9-74dc-47e2-b6ee-3e6a2d7d6fe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -189,7 +189,7 @@
       <name>data-dyn-button-display</name>
       <type>Main</type>
       <value>ImageOnly</value>
-      <webElementGuid>32fb9715-6106-48bf-af66-bad9169b48ed</webElementGuid>
+      <webElementGuid>8e376370-063a-4159-96d4-a348bf90ee77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -197,7 +197,7 @@
       <name>data-hasqtip</name>
       <type>Main</type>
       <value>superToolTip</value>
-      <webElementGuid>317f0c5a-7a4e-4df8-8722-63915dfa0d89</webElementGuid>
+      <webElementGuid>7c2db0bb-94ce-4af0-90e7-9ce35624f9f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -209,31 +209,39 @@
         (Esc)
         Back
     </value>
-      <webElementGuid>3457f789-fe55-4d2d-9a98-aad190740b6f</webElementGuid>
+      <webElementGuid>fd22daff-f371-4abc-819b-82a931331002</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;LedgerJournalTransVendPaym_4_SystemDefinedCloseButton&quot;)</value>
-      <webElementGuid>47f67d4a-01ad-40ba-96e5-c3262f6015a2</webElementGuid>
+      <value>id(&quot;LedgerJournalTransVendPaym_10_SystemDefinedCloseButton&quot;)</value>
+      <webElementGuid>66f82ffb-c817-496a-8349-d565e15f560f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>qtip-superToolTip</value>
+      <webElementGuid>5cf58a42-1322-420e-a387-23a39d121883</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='LedgerJournalTransVendPaym_4_SystemDefinedCloseButton']</value>
-      <webElementGuid>23ac0279-69ba-4aa4-91f3-502cf29a32b5</webElementGuid>
+      <value>//button[@id='LedgerJournalTransVendPaym_10_SystemDefinedCloseButton']</value>
+      <webElementGuid>301bc820-538d-4ab2-9870-f7a981df11b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='LedgerJournalTransVendPaym_4_SysCloseGroup']/button</value>
-      <webElementGuid>38b22800-b939-4a02-b12f-313ee02925e8</webElementGuid>
+      <value>//div[@id='LedgerJournalTransVendPaym_10_SysCloseGroup']/button</value>
+      <webElementGuid>8908bff8-0bb2-4bf8-8126-4e2e798d1ccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -241,7 +249,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Related information'])[2]/following::button[1]</value>
-      <webElementGuid>a0ec5dad-a5a6-4f3c-8ceb-e6df8b6df4b4</webElementGuid>
+      <webElementGuid>de228a25-e5fb-443a-adc7-fb9cc37df8a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -249,7 +257,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected by'])[1]/following::button[2]</value>
-      <webElementGuid>e22b6c87-ee38-4002-8370-1e3ee729bbfa</webElementGuid>
+      <webElementGuid>f7dd61ac-dff6-4ec8-a3bd-55e1929c440a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -257,7 +265,119 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form[3]/div[3]/div/div[2]/button</value>
-      <webElementGuid>66f9a200-c6ab-4ec7-b453-877ce7c2d24a</webElementGuid>
+      <webElementGuid>9655560d-ab2b-4d22-80b5-262b17394c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'LedgerJournalTransVendPaym_10_SystemDefinedCloseButton' and @name = 'SystemDefinedCloseButton' and (text() = '
+        
+        (Esc)
+        Back
+    ' or . = '
+        
+        (Esc)
+        Back
+    ')]</value>
+      <webElementGuid>02c4f7d2-891a-44af-89f8-cf4be5efec98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='LedgerJournalTransVendPaym_8_SystemDefinedCloseButton']</value>
+      <webElementGuid>6482f8d9-7a61-4384-afeb-e62c790a456d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LedgerJournalTransVendPaym_8_SysCloseGroup']/button</value>
+      <webElementGuid>f494a51d-6673-4752-9ccb-9bb6abc15564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'LedgerJournalTransVendPaym_8_SystemDefinedCloseButton' and @name = 'SystemDefinedCloseButton' and (text() = '
+        
+        (Esc)
+        Back
+    ' or . = '
+        
+        (Esc)
+        Back
+    ')]</value>
+      <webElementGuid>319d0e6d-9c73-4bdc-94aa-c454b3355036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='LedgerJournalTransVendPaym_3_SystemDefinedCloseButton']</value>
+      <webElementGuid>4f43c0fd-0335-4062-88e5-322d1cd40b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LedgerJournalTransVendPaym_3_SysCloseGroup']/button</value>
+      <webElementGuid>f4753eff-9cb6-428a-a091-8c76dc3eafd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postprocess operation completed'])[1]/following::button[5]</value>
+      <webElementGuid>c7bae78a-c355-4f6e-8a20-90cb2cd45d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment generation process information'])[1]/following::button[5]</value>
+      <webElementGuid>256d53da-8a95-4a96-b852-74107d1e99fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'LedgerJournalTransVendPaym_3_SystemDefinedCloseButton' and @name = 'SystemDefinedCloseButton' and (text() = '
+        
+        (Esc)
+        Back
+    ' or . = '
+        
+        (Esc)
+        Back
+    ')]</value>
+      <webElementGuid>f2b66dfa-25a5-418b-a968-8d63f2d0451d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='LedgerJournalTransVendPaym_4_SystemDefinedCloseButton']</value>
+      <webElementGuid>1554ee8e-48da-4af3-bd4f-667603c18ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LedgerJournalTransVendPaym_4_SysCloseGroup']/button</value>
+      <webElementGuid>0abb5ee4-9ad6-4fde-b657-1ef108eb5166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -273,6 +393,6 @@
         (Esc)
         Back
     ')]</value>
-      <webElementGuid>3a4323ed-5698-4335-ac14-6e260f1ace70</webElementGuid>
+      <webElementGuid>b9d8cb91-97b6-44a2-873f-2cfa1da7e6e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

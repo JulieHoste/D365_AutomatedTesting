@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>D365 - Android testing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bea09d40-a629-40a1-93a7-de0b053dfaeb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rejected by_fixedDataTableCellLayout_wr_30f063</name>
+   <tag></tag>
+   <elementGuidId>105077cc-5c77-482f-9cf2-b2e7bc22ff1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='GridOverview_191_0-row-0']/div/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fixedDataTableCellLayout_wrap1.public_fixedDataTableCell_wrap1.dyn-syncingColumn.dyn-isFixed.dyn-activeRowCell._1ch450h > div.fixedDataTableCellLayout_wrap2.public_fixedDataTableCell_wrap2 > div.fixedDataTableCellLayout_wrap3.public_fixedDataTableCell_wrap3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#GridOverview_191_0-row-0 >> internal:label=&quot;The row is up to date.&quot;i >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b2cd343-a92b-47c4-af79-8d4091290882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fixedDataTableCellLayout_wrap3 public_fixedDataTableCell_wrap3</value>
+      <webElementGuid>e202a00f-9229-4b6d-9274-e75584a78ded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GridOverview_191_0-row-0&quot;)/div[@class=&quot;fixedDataTableRowLayout_body&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroupWrapper&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroup&quot;]/div[@class=&quot;fixedDataTableCellLayout_main public_fixedDataTableCell_main&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap1 public_fixedDataTableCell_wrap1 dyn-syncingColumn dyn-isFixed dyn-activeRowCell _1ch450h&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap2 public_fixedDataTableCell_wrap2&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap3 public_fixedDataTableCell_wrap3&quot;]</value>
+      <webElementGuid>8b72010f-7da1-42e7-8dc9-af85e0a9b0a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GridOverview_191_0-row-0']/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>acc7d5c5-aa48-4f08-b407-18dbf9bf78e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected by'])[1]/following::div[27]</value>
+      <webElementGuid>5041d718-a722-402e-a009-a223e3f1b605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modified by'])[1]/following::div[37]</value>
+      <webElementGuid>b7ae0922-7c6b-4308-bf5b-2ae30c40d13e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related information'])[2]/preceding::div[209]</value>
+      <webElementGuid>abaf23bb-1190-42b5-81dc-3b16f468f40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>6a5e94d3-a72a-4abc-b82a-b1ef68106d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GridOverview_191_0-row-0']/div/div/div/div/div/div/div</value>
+      <webElementGuid>8ed04c55-4668-41e5-a4ba-c8d31cdb1379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected by'])[1]/following::div[21]</value>
+      <webElementGuid>63ba6eb6-463d-4416-9d72-bda893d26931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modified by'])[1]/following::div[31]</value>
+      <webElementGuid>e4360278-25a4-4065-8ad5-3afdbdd04154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related information'])[2]/preceding::div[215]</value>
+      <webElementGuid>86b89243-05b0-42d2-aa8e-241b4fccd18b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>3e624403-5e31-4e9d-8dec-b006d84de03f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

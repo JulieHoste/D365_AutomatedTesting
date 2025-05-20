@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>D365 to Isabel</name>
-   <tag>D365</tag>
+   <tag>D365, GenAI</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>e6633865-f9fa-42c0-8f73-05b981ebe80e</testCaseGuid>

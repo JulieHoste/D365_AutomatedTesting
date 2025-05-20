@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>D365 - Generate Payments - Unhappy Flow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27cdce5c-9a25-4446-83f6-daba34f4551a</testCaseGuid>
+</TestCaseEntity>

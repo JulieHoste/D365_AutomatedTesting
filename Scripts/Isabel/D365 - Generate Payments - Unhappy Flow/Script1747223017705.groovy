@@ -17,24 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-		
-WebUI.enhancedClick(findTestObject('Page_Vendor payment journal -- Finance and _f966a9/svg_Rejected by__1ug3abe'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payment journal -- Finance and _f966a9/input_Rejected by_LedgerJournalTable_Journa_58aaa8'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payment journal -- Finance and _f966a9/button_Lines'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/button_Generate payments_1'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/button_Generate payments'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/div_After the lookup is open, you can use A_1eee2c_1_2'))
+WebUI.enhancedClick(findTestObject('Page_Vendor payments -- Finance and Operations/button_(AltEnter)        OK_1_2'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/input_Description_Sel_1036_0_1_input'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/span_Batch booking parameter_SysOperationTe_2ffc7a'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/div_After the lookup is open, you can use A_1eee2c_1_2_3'))
+WebUI.enhancedClick(findTestObject('Page_Vendor payments -- Finance and Operations/button_(AltEnter)        OK_1_2 - Copy'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/input_Name_AutoLookup_AccountID_1052_0_4_input'))
+WebUI.delay(60)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/button_(AltEnter)        OK_1'))
+WebUI.enhancedClick(findTestObject('Page_Vendor payments -- Finance and Operations/button_(ShiftF5)        Refresh - Copy'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/span_Batch booking parameter_SysOperationTe_8095c8'))
+WebUI.delay(10)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/button_(AltEnter)        OK_1_2'))
+attributeUnhappy = WebUI.getAttribute(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/input_Payment request id_LedgerJournalTrans_649733'), 
+    'value')
+
+WebUI.verifyMatch(attributeUnhappy, 'Rejected', true)
+
+attribute1Unhappy = WebUI.getAttribute(findTestObject('Page_Vendor payments -- Finance and Operations/input_Payment request id_LedgerJournalTrans_f27213'), 
+    'value')
+
+WebUI.verifyMatch(attribute1Unhappy, 'Rejected', true)
 

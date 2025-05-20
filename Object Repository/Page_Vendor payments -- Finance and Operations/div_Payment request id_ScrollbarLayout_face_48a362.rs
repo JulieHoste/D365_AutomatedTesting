@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Payment request id_ScrollbarLayout_face_48a362</name>
+   <tag></tag>
+   <elementGuidId>9726f44f-40ce-470d-8bc4-e06a5e34ef61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ScrollbarLayout_face.ScrollbarLayout_faceHorizontal.public_Scrollbar_faceActive.public_Scrollbar_face</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='overviewGrid_743_0_grid']/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > div > .ScrollbarLayout_main > .ScrollbarLayout_face</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>24c5f89b-59b8-472c-9a71-8bbffd0c5903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ScrollbarLayout_face ScrollbarLayout_faceHorizontal public_Scrollbar_faceActive public_Scrollbar_face</value>
+      <webElementGuid>916699bd-27c4-4e6f-8862-2b878c835b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;overviewGrid_743_0_grid&quot;)/div[@class=&quot;public_fixedDataTable_horizontalScrollbar&quot;]/div[1]/div[@class=&quot;ScrollbarLayout_main ScrollbarLayout_mainHorizontal public_Scrollbar_main public_Scrollbar_mainOpaque public_Scrollbar_mainActive&quot;]/div[@class=&quot;ScrollbarLayout_face ScrollbarLayout_faceHorizontal public_Scrollbar_faceActive public_Scrollbar_face&quot;]</value>
+      <webElementGuid>e27100fc-b4c7-4c87-ae55-d6277615ae13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='overviewGrid_743_0_grid']/div[2]/div/div/div</value>
+      <webElementGuid>a8c651f7-41ee-4441-b408-c04ac5719a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[3]/div/div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>6dd4f007-c398-4355-a37b-f17e92daf508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='overviewGrid_303_0_grid']/div[2]/div/div/div</value>
+      <webElementGuid>01730225-8ad7-4e2d-a245-3c5a6f374bc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='View marked transactions'])[1]/following::div[5]</value>
+         <value>//div[contains(@id,'overviewGrid_115_0-row-')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bd16643e-f9e6-4157-aa3a-bae7d65945a0</webElementGuid>
+      <webElementGuid>eaedb3b5-ea03-4370-a75f-2647aa3f472b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>reactGrid fill-width fill-height</value>
-      <webElementGuid>2f8019b8-b327-41da-bc5c-5df2cd867d7c</webElementGuid>
+      <webElementGuid>e80802af-9e60-4451-b435-636afda29368</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-dyn-bind</name>
       <type>Main</type>
       <value>sizing: { width: $dyn.layout.Size.available, height: $dyn.layout.Size.available }</value>
-      <webElementGuid>ed8e65a8-3ea3-43e8-b2fc-ae9b5bcdd5a9</webElementGuid>
+      <webElementGuid>2484a2a5-3181-4f2e-b548-bd08bbbf948f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>DateVoucherCompanyAccountVendor nameFinancial tagsDescriptionDebitCreditCurrencyBank accountOffset account typeOffset accountOffset financial tagsMethod of paymentPayment statusCheck numberPayment request idSegmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.</value>
-      <webElementGuid>e1b2f103-f5f5-4f4d-9cb4-04781c2343f1</webElementGuid>
+      <webElementGuid>80750b3d-337b-4122-a041-02f2bb6b532c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;LedgerJournalTransVendPaym_11_overviewGrid&quot;)/div[@class=&quot;reactGrid fill-width fill-height&quot;]</value>
-      <webElementGuid>7908452b-8944-4e9f-8504-71a4c5669189</webElementGuid>
+      <webElementGuid>9143c1b3-163b-438f-9d7d-489e57aeab09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='LedgerJournalTransVendPaym_11_overviewGrid']/div</value>
-      <webElementGuid>21e1333e-1b33-4bfd-813b-1b7b2a922517</webElementGuid>
+      <webElementGuid>d2475f6e-a31c-45b0-92f3-88a5f1c60eca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View marked transactions'])[1]/following::div[5]</value>
-      <webElementGuid>4da333be-f95b-4009-a241-48c3286862f4</webElementGuid>
+      <webElementGuid>7cfdcd94-2303-4787-a1b4-ab62d17811ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Voucher'])[1]/following::div[6]</value>
-      <webElementGuid>9ffb783c-7c34-4075-a7af-e88e58f3b88c</webElementGuid>
+      <webElementGuid>d8493858-bddb-4ad5-bff9-10ca931c5963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div[2]/div[2]/div/div[3]/div/div[2]/div</value>
-      <webElementGuid>235e8fad-5947-4131-bc3c-94aa38ca1795</webElementGuid>
+      <webElementGuid>edfc8f5c-82c1-4d8f-9749-8f4044c04cd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'DateVoucherCompanyAccountVendor nameFinancial tagsDescriptionDebitCreditCurrencyBank accountOffset account typeOffset accountOffset financial tagsMethod of paymentPayment statusCheck numberPayment request idSegmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.' or . = 'DateVoucherCompanyAccountVendor nameFinancial tagsDescriptionDebitCreditCurrencyBank accountOffset account typeOffset accountOffset financial tagsMethod of paymentPayment statusCheck numberPayment request idSegmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.Segmented Entry control. Type values for the segments. If lookup is closed, use enter, arrow keys, or chart of accounts delimiter to move segments. Tab to exit the field. Alt+Down opens the list of values.  When lookup is open, use up and down arrows, page up or down, or home and end to move through list. Press enter to select a value and advance a segment. Pressing Alt+Down twice moves focus to the flyout and its segments. Pressing Alt+W changes the show all and show valid filter.')]</value>
-      <webElementGuid>5287e4a3-d27c-4941-8dd7-0d700020a2ca</webElementGuid>
+      <webElementGuid>1ea88772-ea24-4cd7-afe8-72a57f6545af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

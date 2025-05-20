@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('D365 - Log In'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Isabel/D365 - Log In'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Dashboard -- Finance and Operations/div_Sign out_modulesPaneOpener'), 
     10)
@@ -30,16 +30,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Dashboard -- Finance 
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard -- Finance and Operations/button_Collapse all'))
 
-WebUI.waitForElementClickable(findTestObject('Object Repository/Page_Dashboard -- Finance and Operations/a_Payments'), 10)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Dashboard -- Finance and Operations/a_Payments'))
-
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Dashboard -- Finance and Operations/a_Vendor payment journal'))
 
-not_run: WebUI.callTestCase(findTestCase('Loop - D365 Table (Payments)'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForPageLoad(5)
 
-WebUI.callTestCase(findTestCase('D365 - Generate Payments'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Isabel/D365 - Generate Payments - Happy Flow'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Page_Vendor payments -- Finance and Operations/input_Payment request id_LedgerJournalTrans_1e64f4'), 
-    '', 'Sent', 0)
+WebUI.callTestCase(findTestCase('Isabel/D365 - Generate Payments - Unhappy Flow'), [:], FailureHandling.STOP_ON_FAILURE)
 

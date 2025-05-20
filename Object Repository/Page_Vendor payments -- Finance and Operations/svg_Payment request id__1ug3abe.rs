@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>8d03a969-b218-4933-8c26-25f23f7b5d88</webElementGuid>
+      <webElementGuid>68b54117-e47f-4866-8886-e0231043d536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_1ug3abe</value>
-      <webElementGuid>25702a96-7b38-4054-a3f6-da158a352a89</webElementGuid>
+      <webElementGuid>1f3dbe21-38f8-40ca-9fde-934a57a7fd2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c1d1525f-f519-446c-b33d-ef0e8710c72f</webElementGuid>
+      <webElementGuid>2857e81d-567c-44f9-bf65-89f89dd2d967</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 44 44</value>
-      <webElementGuid>39185785-b57c-4fcd-997d-5d0ce2f3e6d1</webElementGuid>
+      <webElementGuid>7da8ff7f-624d-4fe5-8007-97daa43cfd04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>27ea35fb-8723-4582-bd49-350ae0b5e870</webElementGuid>
+      <webElementGuid>37dc528c-5ec9-4d19-88c6-e1bd1764cafc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;overviewGrid_303_0-row-0&quot;)/div[@class=&quot;fixedDataTableRowLayout_body&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroupWrapper&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroup&quot;]/div[@class=&quot;fixedDataTableCellLayout_main public_fixedDataTableCell_main&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap1 public_fixedDataTableCell_wrap1 dyn-markingColumn dyn-isFixed dyn-activeRowCell _uhrj6r _1vh9n25&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap2 public_fixedDataTableCell_wrap2&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap3 public_fixedDataTableCell_wrap3&quot;]/div[@class=&quot;public_fixedDataTableCell_cellContent&quot;]/div[@class=&quot;dyn-container _ln972h dyn-svg-symbol&quot;]/svg[@class=&quot;_1ug3abe&quot;]</value>
-      <webElementGuid>28a07687-ab60-4c8b-ac0d-3e4b0ecc34c0</webElementGuid>
+      <webElementGuid>c60eeb0e-e94a-4ede-b513-0369ed55529c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment request id'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>5363fc79-a95b-434a-bdcf-9612694ecc2f</webElementGuid>
+      <webElementGuid>db1a8f03-ef24-43e5-ab22-ff7f112fcb25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Check number'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>eca2224e-7bf1-4f74-b314-7b245d0ae7b0</webElementGuid>
+      <webElementGuid>2f54fe44-9082-42ea-a88e-3a409730e691</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[2]/preceding::*[name()='svg'][12]</value>
-      <webElementGuid>6f09a6e9-2970-4104-b157-09f43f6fcee8</webElementGuid>
+      <webElementGuid>e6b2b43d-22f5-4e78-a4c7-0510bf2a68d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,22 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit'])[2]/preceding::*[name()='svg'][12]</value>
-      <webElementGuid>231d4aee-347c-460b-b37a-bf6ccd82d171</webElementGuid>
+      <webElementGuid>6b3d5c37-5d0e-4168-9801-97029c022a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>da43bb09-3bc4-46bb-af17-da8785c245c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>8f46da63-7a43-4616-8a90-7b3a6496e72d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

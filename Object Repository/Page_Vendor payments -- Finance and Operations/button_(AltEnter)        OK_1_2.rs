@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Run in the background'])[1]/following::button[1]</value>
+         <value>//*[@id=&quot;Dialog_10_OkButton&quot;]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d7080eec-b183-4daf-bc3d-4366bc328a07</webElementGuid>
+      <webElementGuid>144ec301-1711-4dca-b918-e6711f0b3715</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>data-dyn-serverid</name>
       <type>Main</type>
       <value>1099_0</value>
-      <webElementGuid>69f9786f-7ca3-45db-96d0-fede21de1b9b</webElementGuid>
+      <webElementGuid>e7c3a691-283d-4b3a-8e66-f7d3a91d3944</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-dyn-rootserverid</name>
       <type>Main</type>
       <value>1076_0</value>
-      <webElementGuid>869dde30-4817-4593-a01a-7f69f4b528c8</webElementGuid>
+      <webElementGuid>96a41c55-e8bf-4e44-a05e-3d12716c1fe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-dyn-controlname</name>
       <type>Main</type>
       <value>CommandButton</value>
-      <webElementGuid>dee1b634-0697-42fd-ac97-5cd5d752f7c7</webElementGuid>
+      <webElementGuid>a8e02dd2-94b4-4b49-a92b-971b934bf151</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-dyn-role</name>
       <type>Main</type>
       <value>CommandButton</value>
-      <webElementGuid>22b71327-7020-4266-9644-baf9640086de</webElementGuid>
+      <webElementGuid>45636cbe-c3f7-4cdc-8b22-4899e57ba790</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Auto button dynamicsButton button-isDefault</value>
-      <webElementGuid>bdab4725-b071-4c83-a4dc-3874cf28c25b</webElementGuid>
+      <webElementGuid>95cdbe71-e5de-479a-bb16-e86e613fb49d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a72d6a80-5df2-4ea5-9de8-49f78db67e89</webElementGuid>
+      <webElementGuid>5a57f77d-6698-4b4e-a17d-a7da765f3d81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
         'button-isDefault' : $data.DefaultButton,
         'button-attachment-count' : $dyn.value($data.IsLabelBubble)
     }</value>
-      <webElementGuid>8cddcbfa-0713-4432-a3ed-965fbd9cda52</webElementGuid>
+      <webElementGuid>1a58b7cd-003b-46e0-a35f-4c71b3814d94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>data-dyn-template-applied</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e74b3f27-b30a-42d9-b584-bd5dbb0aec2b</webElementGuid>
+      <webElementGuid>5f175ece-a9b5-405c-8cc1-c112cb7ee330</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>buttonstyle</name>
       <type>Main</type>
       <value>Auto</value>
-      <webElementGuid>25808479-45a3-4908-89a9-ec1129e968de</webElementGuid>
+      <webElementGuid>5eb235d4-cb15-4f4b-b1bd-548727853a49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>id</name>
       <type>Main</type>
       <value>SysOperationTemplateForm_15_CommandButton</value>
-      <webElementGuid>5787f84d-f225-498c-8a23-18e9e38f45dc</webElementGuid>
+      <webElementGuid>4854e74d-e4f2-4300-8601-ee476712950f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>data-dyn-lastvisible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ec17a756-2c83-48a0-8ea5-81f73f478881</webElementGuid>
+      <webElementGuid>e652bf88-369c-4f3f-99f4-480f8ea5e2fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>86962f9d-7bd0-465d-a584-84f30f07a98e</webElementGuid>
+      <webElementGuid>3320e594-f6c9-4afd-8d11-5ce84824b377</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>dyn-data-supertooltip</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>805d2c02-41c9-4617-9892-3c677f1d446f</webElementGuid>
+      <webElementGuid>2eff4a76-aebd-4a8c-a9f1-2bc28ae81d1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -157,7 +157,7 @@
       <name>name</name>
       <type>Main</type>
       <value>CommandButton</value>
-      <webElementGuid>cb6edbd6-6edb-40c2-8102-dd48aa107406</webElementGuid>
+      <webElementGuid>d36f7deb-747a-4fc9-8837-a3eaafb9844e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>data-dyn-button-display</name>
       <type>Main</type>
       <value>Auto</value>
-      <webElementGuid>c9b32b1a-c291-4fac-ad0c-29a783a2dbcf</webElementGuid>
+      <webElementGuid>3a008cb6-3ba9-41fa-8540-4866669c2514</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>data-hasqtip</name>
       <type>Main</type>
       <value>superToolTip</value>
-      <webElementGuid>32d92628-d63b-460b-a135-2989c30c9705</webElementGuid>
+      <webElementGuid>27ae20d1-9e8d-4c01-b9ec-9ecb7d4881e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>qtip-superToolTip</value>
-      <webElementGuid>9fdb2fe6-3990-4bac-872d-1fe9c6648c3e</webElementGuid>
+      <webElementGuid>2f7bd1c0-7e90-4a19-aea0-0664ea89b538</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -193,7 +193,7 @@
         (Alt+Enter)
         OK
     </value>
-      <webElementGuid>9d7be92a-4cdc-48f9-acde-c5ee4efa9dc7</webElementGuid>
+      <webElementGuid>c7f0d605-ba84-445b-91dc-ab22076e028d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -201,7 +201,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;SysOperationTemplateForm_15_CommandButton&quot;)</value>
-      <webElementGuid>b6aec81a-7af6-464c-905f-8d32ed306f6e</webElementGuid>
+      <webElementGuid>9dade10c-fc7f-4b22-b991-1067f8fe174e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -209,7 +209,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='SysOperationTemplateForm_15_CommandButton']</value>
-      <webElementGuid>7cfaf3d9-dab0-4067-b3d6-a4e460cfa84d</webElementGuid>
+      <webElementGuid>f69810d2-0ccf-4983-b666-c771d9b670e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -217,7 +217,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='SysOperationTemplateForm_15_BottomButtonGrp']/div[2]/button</value>
-      <webElementGuid>90c22aa8-ee4b-4f86-b8f8-2cc6243042cc</webElementGuid>
+      <webElementGuid>89023be6-9310-4200-b2ce-1ba91a35e351</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -225,7 +225,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Run in the background'])[1]/following::button[1]</value>
-      <webElementGuid>50930d8e-0355-42e8-b7c3-d4b4df178043</webElementGuid>
+      <webElementGuid>bbc4f7b5-06f7-475e-a2ae-f6c3341bf028</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -233,7 +233,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/following::button[2]</value>
-      <webElementGuid>7dae83c1-ba9c-4c32-b6bd-0e7c8a26ae27</webElementGuid>
+      <webElementGuid>8246e7cf-ce91-4350-afc2-bee4ce6ac7b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -241,7 +241,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
-      <webElementGuid>6853137a-ae96-49fb-b740-fb4df929953b</webElementGuid>
+      <webElementGuid>868214d7-9a18-40c2-b4ef-9272afd30397</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -257,6 +257,6 @@
         (Alt+Enter)
         OK
     ')]</value>
-      <webElementGuid>2295c739-77d9-4f43-8f14-a5a49501d61e</webElementGuid>
+      <webElementGuid>89279496-507a-4d98-84c2-70147de59bc9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

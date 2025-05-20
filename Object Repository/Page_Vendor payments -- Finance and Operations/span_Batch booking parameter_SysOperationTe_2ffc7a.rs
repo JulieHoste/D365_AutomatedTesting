@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Batch booking parameter_SysOperationTe_2ffc7a</name>
+   <tag></tag>
+   <elementGuidId>b55586ff-b609-4268-be10-92fb28c59115</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SysOperationTemplateForm_11_Fld1_1_toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='SysOperationTemplateForm_11_Fld1_1_toggle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=switch[name=&quot;Batch booking&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>314f7107-0be9-4cc3-bfbe-8118629cd282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle-box</value>
+      <webElementGuid>c30b0605-f802-4172-a93d-c8062ddfea7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>switch</value>
+      <webElementGuid>0490f3b6-ab98-47a8-b635-205d5932b231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-bind</name>
+      <type>Main</type>
+      <value>
+            ariaEnabled : $data.Enabled,
+            allowEdit: $data.AllowEdit,
+            click: $data.clickHandler,
+            skip: $dyn.ui.skip($data),
+            checked: $data.formattedValue,
+            id: $data.Id + '_toggle',
+            superTooltip: $dyn.ui.superTooltip($data, true, true),
+            ariaLabelledBy: { byElementId: $data.Id + '_label', showLabel: $data.ShowLabel, isInGrid: $data._isInGrid },
+            attr: { 'aria-describedby': $dyn.ui.getDescribedByData($data) }</value>
+      <webElementGuid>7b2ae50e-700f-499c-8ca0-59c72b33cf7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>59587176-20d2-4d35-83d3-94d9313a3a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>153501fd-0071-48be-a59c-4f5969af1018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SysOperationTemplateForm_11_Fld1_1_toggle</value>
+      <webElementGuid>839405a7-886f-4d00-80a0-bf930ba2ca1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>39a0fc66-3f29-4479-8cfa-a8c138ac294f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dyn-data-supertooltip-skip-overflow</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>55f712c5-bee6-4379-86ad-5b7b6f080cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>SysOperationTemplateForm_11_Fld1_1_label</value>
+      <webElementGuid>92b56760-acbd-4941-81dd-b29bca1c2e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>SysOperationTemplateForm_11_Fld1_1_helptext</value>
+      <webElementGuid>ae38c727-488d-4e24-b03a-59549264e02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SysOperationTemplateForm_11_Fld1_1_toggle&quot;)</value>
+      <webElementGuid>3166058c-cfd9-4f49-af04-45d28f8ef187</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='SysOperationTemplateForm_11_Fld1_1_toggle']</value>
+      <webElementGuid>80961f66-d97a-42a6-9b64-f5ad50b0ff41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='SysOperationTemplateForm_11_Fld1_1']/div/span</value>
+      <webElementGuid>8b5e1a9d-ed46-4365-815a-952809990fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch booking parameter'])[1]/following::span[1]</value>
+      <webElementGuid>03ee752a-9d51-4e33-b135-8aeb4b90a7f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch booking'])[1]/following::span[3]</value>
+      <webElementGuid>445a560c-0358-459d-96ab-bb98132b6ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::span[2]</value>
+      <webElementGuid>17482413-5e13-4344-b1fc-4ed40835d3f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format'])[1]/preceding::span[3]</value>
+      <webElementGuid>a7a6a86f-cd6e-45c0-a456-af39e93a68ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/div/span</value>
+      <webElementGuid>a2815802-2274-4124-994f-fb03c844f308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'SysOperationTemplateForm_11_Fld1_1_toggle']</value>
+      <webElementGuid>35aeb24d-87df-4efe-8241-91d1159b72e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#Dialog_5_OkButton</value>
+         <value>#Dialog_4_OkButton</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='Dialog_5_OkButton']</value>
+         <value>//button[@id='Dialog_4_OkButton']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6e544f37-4a4c-4053-a56a-37c08e79866f</webElementGuid>
+      <webElementGuid>dcef1bc0-40e4-40ba-8620-6382c3e2457b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-serverid</name>
       <type>Main</type>
-      <value>601_0</value>
-      <webElementGuid>c8be0dbc-fde1-4457-ae98-fd6155bbabed</webElementGuid>
+      <value>574_0</value>
+      <webElementGuid>2b0b8dd9-2586-4dc0-a8ae-3e3e11ffe7d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-rootserverid</name>
       <type>Main</type>
-      <value>586_0</value>
-      <webElementGuid>da2dc1c4-2628-471d-85ae-b6db66c26670</webElementGuid>
+      <value>558_0</value>
+      <webElementGuid>ae5485f0-008a-4148-9c1e-d5bc2b3a810a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-dyn-controlname</name>
       <type>Main</type>
       <value>OkButton</value>
-      <webElementGuid>9fef09aa-dcce-42ea-8faa-cbc1b2a495a2</webElementGuid>
+      <webElementGuid>5532186d-6d5f-417d-8881-3275a186ef33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-dyn-role</name>
       <type>Main</type>
       <value>CommandButton</value>
-      <webElementGuid>f843e6e1-2f23-47ae-a455-c6692986b4ea</webElementGuid>
+      <webElementGuid>2f248886-66f2-4eb7-92c0-3017d11aeb59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Auto button dynamicsButton button-isDefault</value>
-      <webElementGuid>07395684-c927-4bc8-b932-001b20206890</webElementGuid>
+      <webElementGuid>03b4a4f9-dcf7-4b8a-be2c-94573b161165</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ae4c343b-9f72-4dea-b405-33cd850f0a95</webElementGuid>
+      <webElementGuid>4fb327ad-1359-4954-9b96-88e8c6be964a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
         'button-isDefault' : $data.DefaultButton,
         'button-attachment-count' : $dyn.value($data.IsLabelBubble)
     }</value>
-      <webElementGuid>a5b19cc3-c31f-4350-8ecd-0c5280ef53c1</webElementGuid>
+      <webElementGuid>271a4f5c-2745-4864-a3b9-b03d8b805743</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>data-dyn-template-applied</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>93f3f812-ab53-4480-8013-9fa23bb081dd</webElementGuid>
+      <webElementGuid>b53e7d05-d9f4-4b79-b2ab-538ee37c3834</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,15 +117,15 @@
       <name>buttonstyle</name>
       <type>Main</type>
       <value>Auto</value>
-      <webElementGuid>73e5dbcd-bc00-4e9d-8c04-fc778c74e004</webElementGuid>
+      <webElementGuid>b32150eb-df1c-4cf6-a69e-9d483d95de7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>Dialog_5_OkButton</value>
-      <webElementGuid>c2abb8a1-8e81-4b68-8c7e-3b5ec1ee74a8</webElementGuid>
+      <value>Dialog_4_OkButton</value>
+      <webElementGuid>32c80718-8b78-4a81-8690-8ce1b6f95829</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>data-dyn-lastvisible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>574612d4-100b-4757-bbef-57cdec3a04fb</webElementGuid>
+      <webElementGuid>2b9fab6b-5e06-4e69-9001-1c0bc61c13bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>eee03f51-9eb4-416b-ac5c-cf79fb672e28</webElementGuid>
+      <webElementGuid>74097faa-e14b-435f-8a65-c029742d2e28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>dyn-data-supertooltip</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>60245679-2c82-4f16-b7ea-f8497f6b55c3</webElementGuid>
+      <webElementGuid>c9d53dcf-14d5-44c7-b3d8-8fc95894c0ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -157,7 +157,7 @@
       <name>name</name>
       <type>Main</type>
       <value>OkButton</value>
-      <webElementGuid>bbd9bb6c-221e-4af8-861f-b1df90befbb5</webElementGuid>
+      <webElementGuid>5cdf2086-7c36-4ab7-8328-e6708586a923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>data-dyn-button-display</name>
       <type>Main</type>
       <value>Auto</value>
-      <webElementGuid>fc91fd5e-8210-48f0-aab8-a2d7cc702e1e</webElementGuid>
+      <webElementGuid>f060bbc7-78c1-404d-9d2c-993d9c9f1020</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>data-hasqtip</name>
       <type>Main</type>
       <value>superToolTip</value>
-      <webElementGuid>7a105843-0a75-4096-b9e6-57366959e869</webElementGuid>
+      <webElementGuid>c22112f3-ccff-465c-bffd-53d120ab6722</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>qtip-superToolTip</value>
-      <webElementGuid>6e04a57f-ecfa-4cff-ba0d-1182a380bde4</webElementGuid>
+      <webElementGuid>ab2141d8-5af1-4ba3-8fd4-ada44be92d31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -193,18 +193,106 @@
         (Alt+Enter)
         OK
     </value>
-      <webElementGuid>ec04385a-bda4-4d2d-93f2-7921f889db12</webElementGuid>
+      <webElementGuid>5856bd04-735b-4131-88d6-b69e8b3e0e3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Dialog_5_OkButton&quot;)</value>
-      <webElementGuid>25daf28c-7df8-4023-841f-7e45162746b0</webElementGuid>
+      <value>id(&quot;Dialog_4_OkButton&quot;)</value>
+      <webElementGuid>fd42ec02-86d0-49e9-a66d-7abf8cd249cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='Dialog_4_OkButton']</value>
+      <webElementGuid>0aeb4588-1102-4d2b-9ec0-4f18ec953c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Dialog_4_BottomButtonGrp']/div[2]/button</value>
+      <webElementGuid>2ec009aa-cca0-49b1-bbe0-9270c67c67f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Records to include'])[1]/following::button[1]</value>
+      <webElementGuid>7fae3aed-cf84-4fd1-9f84-ceffafb410e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After the lookup is open, you can use Alt+Down to move focus into the lookup.'])[4]/following::button[2]</value>
+      <webElementGuid>12583f78-17fd-4fb0-96d5-448a6d21e989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>101fda98-4a6c-49f0-8ad3-044f78d5a771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'Dialog_4_OkButton' and @name = 'OkButton' and (text() = '
+        
+        (Alt+Enter)
+        OK
+    ' or . = '
+        
+        (Alt+Enter)
+        OK
+    ')]</value>
+      <webElementGuid>c5163416-e2e9-443d-9108-f069aba9717d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='Dialog_10_OkButton']</value>
+      <webElementGuid>ab802753-2a64-4e33-b4d4-e3d1a194f762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Dialog_10_BottomButtonGrp']/div[2]/button</value>
+      <webElementGuid>a76b85d3-a24e-4a39-89f9-0a21de7d3ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'Dialog_10_OkButton' and @name = 'OkButton' and (text() = '
+        
+        (Alt+Enter)
+        OK
+    ' or . = '
+        
+        (Alt+Enter)
+        OK
+    ')]</value>
+      <webElementGuid>4584d9da-8e22-4e21-8064-8f628548ab00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -218,30 +306,6 @@
       <type>Main</type>
       <value>//div[@id='Dialog_5_BottomButtonGrp']/div[2]/button</value>
       <webElementGuid>54c8506b-b127-44c3-b380-aa206c73ebf8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Records to include'])[1]/following::button[1]</value>
-      <webElementGuid>9d66a1c1-3e47-4d06-ba12-408d21064261</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='After the lookup is open, you can use Alt+Down to move focus into the lookup.'])[4]/following::button[2]</value>
-      <webElementGuid>6c316e70-58b5-4f05-8f8f-7c1477baab21</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/button</value>
-      <webElementGuid>d162bd05-3eca-48b7-a807-cd43e2c8fc18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

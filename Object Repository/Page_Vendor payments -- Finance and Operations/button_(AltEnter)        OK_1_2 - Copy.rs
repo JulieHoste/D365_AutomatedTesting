@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Lines</name>
+   <name>button_(AltEnter)        OK_1_2 - Copy</name>
    <tag></tag>
-   <elementGuidId>fba0249a-c4d1-46bf-bdec-59c54f00a3cb</elementGuidId>
+   <elementGuidId>abdcae7d-9a27-48c1-958a-860e46dc847d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#ledgerjournaltable5_2_JournalLines</value>
+         <value>#SysOperationTemplateForm_15_CommandButton</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='ledgerjournaltable5_2_JournalLines']</value>
+         <value>//*[@id=&quot;SysOperationTemplateForm_11_CommandButton&quot;]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Lines&quot;s]</value>
+         <value>internal:role=button[name=&quot;OK&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,47 +29,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6e516166-32ed-42be-889e-62ff4f13b0be</webElementGuid>
+      <webElementGuid>454a6418-919d-42f9-9599-d3ce1fff7be1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-serverid</name>
       <type>Main</type>
-      <value>267_0</value>
-      <webElementGuid>2e210380-0743-41df-86c6-ba48ce8a81d0</webElementGuid>
+      <value>1099_0</value>
+      <webElementGuid>f906a1c0-ef6b-42b8-9042-5e9ff5c4ab65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-rootserverid</name>
       <type>Main</type>
-      <value>191_0</value>
-      <webElementGuid>9c5e76c7-1d96-4016-9612-7d3b3f773b7f</webElementGuid>
+      <value>1076_0</value>
+      <webElementGuid>eb6d100f-fe24-417b-a5c9-8bc14fa1d011</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-controlname</name>
       <type>Main</type>
-      <value>JournalLines</value>
-      <webElementGuid>4d2091e3-8594-4048-a4b2-a319ac9b212a</webElementGuid>
+      <value>CommandButton</value>
+      <webElementGuid>e8f6dca4-a211-4ebd-b1fb-51228b80f288</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-role</name>
       <type>Main</type>
-      <value>MenuItemButton</value>
-      <webElementGuid>7f7907be-b90c-4247-be03-b8dc93e33e28</webElementGuid>
+      <value>CommandButton</value>
+      <webElementGuid>079e1b01-a7a7-41a6-b48c-5645dd107cb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>Auto button dynamicsButton</value>
-      <webElementGuid>b4740c6e-54b9-41d3-b44d-9b2477a74360</webElementGuid>
+      <value>Auto button dynamicsButton button-isDefault</value>
+      <webElementGuid>58256119-dd7b-4c0e-a4f1-88729faa97f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1edba6a4-ae79-4fc5-a768-2154b6016752</webElementGuid>
+      <webElementGuid>0b383c9e-52ce-4fd2-9080-173fd85db922</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
         'button-isDefault' : $data.DefaultButton,
         'button-attachment-count' : $dyn.value($data.IsLabelBubble)
     }</value>
-      <webElementGuid>d6661874-b371-421b-98e6-c3aff31ff2cc</webElementGuid>
+      <webElementGuid>27af2fe7-4b96-4127-9e2a-abb848ed3ae5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>data-dyn-template-applied</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e3c852a3-32d8-4aaa-8470-2eb66d9bfa10</webElementGuid>
+      <webElementGuid>f559858a-c81c-49d5-a3bf-a8debdb720f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,15 +117,15 @@
       <name>buttonstyle</name>
       <type>Main</type>
       <value>Auto</value>
-      <webElementGuid>ea816451-f90b-42a4-8e03-36be5d5dbb04</webElementGuid>
+      <webElementGuid>ed00189c-48dd-4814-9a63-61fe8e061b7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ledgerjournaltable5_2_JournalLines</value>
-      <webElementGuid>8adf724f-1936-4c8a-8be8-2bea412db093</webElementGuid>
+      <value>SysOperationTemplateForm_15_CommandButton</value>
+      <webElementGuid>bd0cce4e-7334-4270-a2a1-e1183faf0348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>data-dyn-lastvisible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>46ab4625-c1a4-4967-bf29-0a18ae51a8e3</webElementGuid>
+      <webElementGuid>a2c31419-840a-416d-9cdd-199c486f3738</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0b186ff8-5dcf-4d1c-bd58-60de23d7afc5</webElementGuid>
+      <webElementGuid>9d5750da-723f-4350-84b8-370c89c050f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,15 +149,15 @@
       <name>dyn-data-supertooltip</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>903aa7aa-3c17-46a3-8cb8-0a20f5a42cfb</webElementGuid>
+      <webElementGuid>db14e574-d50a-454c-affb-8cab682a4d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>JournalLines</value>
-      <webElementGuid>d0d2b4b1-362c-440c-a895-d63290680cf3</webElementGuid>
+      <value>CommandButton</value>
+      <webElementGuid>494a3e2c-f2f4-429c-8a67-fbba1fe98fb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,23 @@
       <name>data-dyn-button-display</name>
       <type>Main</type>
       <value>Auto</value>
-      <webElementGuid>d3f1bb75-152a-4129-9cc9-9c6f3a604c6a</webElementGuid>
+      <webElementGuid>c79f7645-f2fe-45b9-99ba-b7d2bd37a104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hasqtip</name>
+      <type>Main</type>
+      <value>superToolTip</value>
+      <webElementGuid>3d20be18-48aa-4872-b6f3-60a161f17227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>qtip-superToolTip</value>
+      <webElementGuid>ca6ad780-05b4-4af6-a13b-9c758a3b4fd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -174,81 +190,73 @@
       <type>Main</type>
       <value>
         
-        
-        Lines
+        (Alt+Enter)
+        OK
     </value>
-      <webElementGuid>6356877e-a8ec-4185-a8b1-ff554f069b3a</webElementGuid>
+      <webElementGuid>32c5fb2d-0ea2-44da-aa2c-064c6ba2c47f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ledgerjournaltable5_2_JournalLines&quot;)</value>
-      <webElementGuid>d16ae7e6-f525-4367-870e-6b51b2986be4</webElementGuid>
+      <value>id(&quot;SysOperationTemplateForm_15_CommandButton&quot;)</value>
+      <webElementGuid>a4af8b08-5099-47f9-aa5f-cfc25a052601</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='ledgerjournaltable5_2_JournalLines']</value>
-      <webElementGuid>1e5dd652-2101-4acc-85fd-77966a5daa50</webElementGuid>
+      <value>//button[@id='SysOperationTemplateForm_15_CommandButton']</value>
+      <webElementGuid>83f07035-76c7-4ddc-8846-10a19f9eac7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ledgerjournaltable5_2_ButtonGroup']/button</value>
-      <webElementGuid>29d16221-4691-455f-b505-d14e30daad18</webElementGuid>
+      <value>//div[@id='SysOperationTemplateForm_15_BottomButtonGrp']/div[2]/button</value>
+      <webElementGuid>a7c98131-66f4-402d-a0d1-e9bf49876f81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::button[1]</value>
-      <webElementGuid>276c4213-0359-4d55-b144-c6f5fb3a7349</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Run in the background'])[1]/following::button[1]</value>
+      <webElementGuid>870bb70b-7997-44a2-915a-ec9c4497da1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Alt+Del)'])[1]/following::button[1]</value>
-      <webElementGuid>26874d5e-a197-484a-8f74-399e6ad75c40</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open the current journal batch in Excel to facilitate fast entry, update, or review of lines'])[1]/preceding::button[1]</value>
-      <webElementGuid>f4ff761a-aa79-4e13-b946-c9c75584ebb6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/following::button[2]</value>
+      <webElementGuid>c5a30aff-6084-44e5-a8ca-ffc2a361e268</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form[2]/div[3]/div/div[5]/button</value>
-      <webElementGuid>73858957-5c3d-4084-8eaa-571be19d8054</webElementGuid>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>a172a315-fa63-4bf4-9604-f8fc828a1d02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'ledgerjournaltable5_2_JournalLines' and @name = 'JournalLines' and (text() = '
+      <value>//button[@type = 'button' and @id = 'SysOperationTemplateForm_15_CommandButton' and @name = 'CommandButton' and (text() = '
         
-        
-        Lines
+        (Alt+Enter)
+        OK
     ' or . = '
         
-        
-        Lines
+        (Alt+Enter)
+        OK
     ')]</value>
-      <webElementGuid>a4bd40d1-077c-45fe-9386-2974afaf004b</webElementGuid>
+      <webElementGuid>88abcb3d-0edb-48a5-9de4-c19a0fe9c343</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

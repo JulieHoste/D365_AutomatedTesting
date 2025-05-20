@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Row</name>
+   <tag></tag>
+   <elementGuidId>e92b5dcc-a908-401f-b6b0-ea0d24713463</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;GridOverview_191_0_grid&quot;)/div[@class=&quot;fixedDataTableLayout_rowsContainer&quot;]/div[@class=&quot;fixedDataTableRowLayout_rowWrapper&quot;]/div[@class=&quot;fixedDataTableRowLayout_main public_fixedDataTableRow_main fixedDataTableLayout_header public_fixedDataTable_header&quot;]/div[@class=&quot;fixedDataTableRowLayout_body&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroupWrapper&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroup&quot;]/div[@class=&quot;fixedDataTableCellLayout_main public_fixedDataTableCell_main&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap1 public_fixedDataTableCell_wrap1 dyn-markingColumn dyn-isFixed _1jazzh9&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap2 public_fixedDataTableCell_wrap2&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap3 public_fixedDataTableCell_wrap3&quot;]/div[@class=&quot;public_fixedDataTableCell_cellContent&quot;]/div[@class=&quot;dyn-container _ln972h dyn-svg-symbol&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='GridOverview_3_0-row-'$(number)'']/div[1]/div[1]/div/div[1]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dyn-container._ln972h.dyn-svg-symbol</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Indicates the current status of the row, in particular if the row is up-to-date, has unsaved changes, has a validation issue, or is waiting for user input. Journal batch number  Name Description Posted  Posted on Log In use In use by Modified by Rejected by Grid options&quot;i] >> internal:role=checkbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>528ff461-6f88-48c6-8a1a-48867d6bfe8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dyn-container _ln972h dyn-svg-symbol</value>
+      <webElementGuid>1fcbafc7-ef2b-4cde-b77c-48d3c937fac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GridOverview_191_0_grid&quot;)/div[@class=&quot;fixedDataTableLayout_rowsContainer&quot;]/div[@class=&quot;fixedDataTableRowLayout_rowWrapper&quot;]/div[@class=&quot;fixedDataTableRowLayout_main public_fixedDataTableRow_main fixedDataTableLayout_header public_fixedDataTable_header&quot;]/div[@class=&quot;fixedDataTableRowLayout_body&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroupWrapper&quot;]/div[@class=&quot;fixedDataTableCellGroupLayout_cellGroup&quot;]/div[@class=&quot;fixedDataTableCellLayout_main public_fixedDataTableCell_main&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap1 public_fixedDataTableCell_wrap1 dyn-markingColumn dyn-isFixed _1jazzh9&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap2 public_fixedDataTableCell_wrap2&quot;]/div[@class=&quot;fixedDataTableCellLayout_wrap3 public_fixedDataTableCell_wrap3&quot;]/div[@class=&quot;public_fixedDataTableCell_cellContent&quot;]/div[@class=&quot;dyn-container _ln972h dyn-svg-symbol&quot;]</value>
+      <webElementGuid>92da83b5-db5a-4608-98fc-2500e5a30ca4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GridOverview_191_0_grid']/div/div[2]/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>9566a543-5b6a-4fdd-a927-a1ecb6a52464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::div[21]</value>
+      <webElementGuid>a8a61f3b-9ee1-4903-bb24-281c35603a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial dimensions'])[1]/following::div[21]</value>
+      <webElementGuid>1046e9ec-4863-4e27-9bcd-85afd511f42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journal batch number'])[1]/preceding::div[10]</value>
+      <webElementGuid>d01b6442-bb7d-4fbe-8701-80ad872accd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::div[20]</value>
+      <webElementGuid>c7f47709-334c-4a3a-8286-a8049d8258a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>eade585d-fb05-4bae-a765-df7053f77e7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

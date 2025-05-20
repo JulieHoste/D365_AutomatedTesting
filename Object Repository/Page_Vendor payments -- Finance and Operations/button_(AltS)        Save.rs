@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Lines</name>
+   <name>button_(AltS)        Save</name>
    <tag></tag>
-   <elementGuidId>fba0249a-c4d1-46bf-bdec-59c54f00a3cb</elementGuidId>
+   <elementGuidId>25afb491-6f27-47dd-80de-6e3f3057323c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#ledgerjournaltable5_2_JournalLines</value>
+         <key>XPATH</key>
+         <value>//button[@id='LedgerJournalTransVendPaym_3_SystemDefinedSaveButton']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='ledgerjournaltable5_2_JournalLines']</value>
+         <key>CSS</key>
+         <value>#LedgerJournalTransVendPaym_3_SystemDefinedSaveButton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Lines&quot;s]</value>
+         <value>internal:role=button[name=&quot; Save&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,39 +29,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6e516166-32ed-42be-889e-62ff4f13b0be</webElementGuid>
+      <webElementGuid>62f78877-6d6b-427d-a947-1fbca3982035</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-serverid</name>
       <type>Main</type>
-      <value>267_0</value>
-      <webElementGuid>2e210380-0743-41df-86c6-ba48ce8a81d0</webElementGuid>
+      <value>495_0</value>
+      <webElementGuid>0cd05054-32a0-4342-bb3c-26ae57b231eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-rootserverid</name>
       <type>Main</type>
-      <value>191_0</value>
-      <webElementGuid>9c5e76c7-1d96-4016-9612-7d3b3f773b7f</webElementGuid>
+      <value>303_0</value>
+      <webElementGuid>093f6a36-fb0e-4019-8f86-062a472c6042</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-controlname</name>
       <type>Main</type>
-      <value>JournalLines</value>
-      <webElementGuid>4d2091e3-8594-4048-a4b2-a319ac9b212a</webElementGuid>
+      <value>SystemDefinedSaveButton</value>
+      <webElementGuid>e9e482e1-f691-497f-bd7b-8c1637f9d276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-role</name>
       <type>Main</type>
-      <value>MenuItemButton</value>
-      <webElementGuid>7f7907be-b90c-4247-be03-b8dc93e33e28</webElementGuid>
+      <value>CommandButton</value>
+      <webElementGuid>6b709d9f-bf94-426f-9da9-703913677d5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Auto button dynamicsButton</value>
-      <webElementGuid>b4740c6e-54b9-41d3-b44d-9b2477a74360</webElementGuid>
+      <webElementGuid>75f68ed1-a211-453a-a555-8548cfbcd7cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1edba6a4-ae79-4fc5-a768-2154b6016752</webElementGuid>
+      <webElementGuid>ef85bc50-88b4-47bc-a54b-890c5bded7bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
         'button-isDefault' : $data.DefaultButton,
         'button-attachment-count' : $dyn.value($data.IsLabelBubble)
     }</value>
-      <webElementGuid>d6661874-b371-421b-98e6-c3aff31ff2cc</webElementGuid>
+      <webElementGuid>f75e722b-d4d7-4aa0-a882-4beb797eba23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>data-dyn-template-applied</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e3c852a3-32d8-4aaa-8470-2eb66d9bfa10</webElementGuid>
+      <webElementGuid>e2d9d86f-24ec-49bf-b48d-969c236f5de3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,15 +117,15 @@
       <name>buttonstyle</name>
       <type>Main</type>
       <value>Auto</value>
-      <webElementGuid>ea816451-f90b-42a4-8e03-36be5d5dbb04</webElementGuid>
+      <webElementGuid>260c28c3-78d2-4ef0-bb48-704f0577a09b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ledgerjournaltable5_2_JournalLines</value>
-      <webElementGuid>8adf724f-1936-4c8a-8be8-2bea412db093</webElementGuid>
+      <value>LedgerJournalTransVendPaym_3_SystemDefinedSaveButton</value>
+      <webElementGuid>b62c24b7-231a-48fd-a4ac-4fd9914671de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>data-dyn-lastvisible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>46ab4625-c1a4-4967-bf29-0a18ae51a8e3</webElementGuid>
+      <webElementGuid>e44a0d2f-1287-4c10-8700-b85a4597796a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0b186ff8-5dcf-4d1c-bd58-60de23d7afc5</webElementGuid>
+      <webElementGuid>8bd81abc-a0bb-4eb0-845c-20413450f374</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,23 +149,39 @@
       <name>dyn-data-supertooltip</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>903aa7aa-3c17-46a3-8cb8-0a20f5a42cfb</webElementGuid>
+      <webElementGuid>3191e185-0ef3-4352-a0c0-4b313d7bf27d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>JournalLines</value>
-      <webElementGuid>d0d2b4b1-362c-440c-a895-d63290680cf3</webElementGuid>
+      <value>SystemDefinedSaveButton</value>
+      <webElementGuid>22c9b8c6-4344-4e76-97f1-11e550622d14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-dyn-button-display</name>
       <type>Main</type>
-      <value>Auto</value>
-      <webElementGuid>d3f1bb75-152a-4129-9cc9-9c6f3a604c6a</webElementGuid>
+      <value>TextWithImageLeft</value>
+      <webElementGuid>15e611db-a364-4434-be51-d70028bf26d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hasqtip</name>
+      <type>Main</type>
+      <value>superToolTip</value>
+      <webElementGuid>8aa590c6-df89-4e7a-a8e1-611824145adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>qtip-superToolTip</value>
+      <webElementGuid>a0feca54-7d9c-4a51-8440-1e74a1ec1a9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -174,81 +190,73 @@
       <type>Main</type>
       <value>
         
-        
-        Lines
+        (Alt+S)
+        Save
     </value>
-      <webElementGuid>6356877e-a8ec-4185-a8b1-ff554f069b3a</webElementGuid>
+      <webElementGuid>1e9b0ec5-96b1-49ea-bc0f-c9601e4e50ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ledgerjournaltable5_2_JournalLines&quot;)</value>
-      <webElementGuid>d16ae7e6-f525-4367-870e-6b51b2986be4</webElementGuid>
+      <value>id(&quot;LedgerJournalTransVendPaym_3_SystemDefinedSaveButton&quot;)</value>
+      <webElementGuid>fb4815a3-2f9d-4a8c-9116-c7232b676d48</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='ledgerjournaltable5_2_JournalLines']</value>
-      <webElementGuid>1e5dd652-2101-4acc-85fd-77966a5daa50</webElementGuid>
+      <value>//button[@id='LedgerJournalTransVendPaym_3_SystemDefinedSaveButton']</value>
+      <webElementGuid>1a7c5576-14f6-4071-8731-ef87edebf635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ledgerjournaltable5_2_ButtonGroup']/button</value>
-      <webElementGuid>29d16221-4691-455f-b505-d14e30daad18</webElementGuid>
+      <value>//div[@id='LedgerJournalTransVendPaym_3_SystemDefinedPage']/button</value>
+      <webElementGuid>2db9e739-431c-4320-bbfc-7d82b63c6af4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::button[1]</value>
-      <webElementGuid>276c4213-0359-4d55-b144-c6f5fb3a7349</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[2]/following::button[1]</value>
+      <webElementGuid>c7cbc5fd-2dbe-496f-9df2-d780a91b6777</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Alt+Del)'])[1]/following::button[1]</value>
-      <webElementGuid>26874d5e-a197-484a-8f74-399e6ad75c40</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open the current journal batch in Excel to facilitate fast entry, update, or review of lines'])[1]/preceding::button[1]</value>
-      <webElementGuid>f4ff761a-aa79-4e13-b946-c9c75584ebb6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Esc)'])[2]/following::button[1]</value>
+      <webElementGuid>adb1ae9f-e5bb-4875-9722-a3f335003164</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form[2]/div[3]/div/div[5]/button</value>
-      <webElementGuid>73858957-5c3d-4084-8eaa-571be19d8054</webElementGuid>
+      <value>//form[3]/div[3]/div/div[3]/button</value>
+      <webElementGuid>25d6bfb3-7a84-4aa8-886c-925b80009eee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'ledgerjournaltable5_2_JournalLines' and @name = 'JournalLines' and (text() = '
+      <value>//button[@type = 'button' and @id = 'LedgerJournalTransVendPaym_3_SystemDefinedSaveButton' and @name = 'SystemDefinedSaveButton' and (text() = '
         
-        
-        Lines
+        (Alt+S)
+        Save
     ' or . = '
         
-        
-        Lines
+        (Alt+S)
+        Save
     ')]</value>
-      <webElementGuid>a4bd40d1-077c-45fe-9386-2974afaf004b</webElementGuid>
+      <webElementGuid>9bf0637a-826d-4d8f-a1e4-424397224fc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

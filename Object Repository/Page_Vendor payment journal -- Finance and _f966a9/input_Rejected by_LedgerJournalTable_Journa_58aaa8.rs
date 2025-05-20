@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Payment request id_LedgerJournalTrans_1e64f4</name>
+   <name>input_Rejected by_LedgerJournalTable_Journa_58aaa8</name>
    <tag></tag>
-   <elementGuidId>0093df2d-b60b-4994-b4ac-38b8ddc6b61f</elementGuidId>
+   <elementGuidId>559cf8e9-a949-4aac-a05f-75d9ecb2e135</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[contains(@id,'overviewGrid_115_0-row-')]</value>
+         <key>CSS</key>
+         <value>#LedgerJournalTable_JournalNum_191_0_1_input</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#LedgerJournalTrans_PaymentStatus_735_0_0_input</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;LedgerJournalTable_JournalNum_191_0_1_input&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=row[name=&quot;Select or unselect row The row is up to date. Date Voucher Company Account Vendor name Description Open Debit Credit Currency Bank account Offset account type Offset account Method of payment Payment status Check number Payment request id&quot;i] >> internal:label=&quot;Payment status&quot;i</value>
+         <value>internal:attr=[title=&quot;00022
+&#xd;
+Click to follow link&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +31,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b5d0730d-0053-44c7-b134-35cf4f81239b</webElementGuid>
+      <webElementGuid>45300936-1bf9-472e-bfe8-70575e99d074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>LedgerJournalTrans_PaymentStatus_735_0_0_input</value>
-      <webElementGuid>650e51f1-045d-497b-a7e1-750c2155abf4</webElementGuid>
+      <value>LedgerJournalTable_JournalNum_191_0_1_input</value>
+      <webElementGuid>1bc866c8-8fd8-4467-b3e2-063a4b8629d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +47,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>863f68e5-ef47-4685-9782-467ba22a6e60</webElementGuid>
+      <webElementGuid>30a8b6b0-afbc-4630-994d-63c6f018a2b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>deeece9c-fb00-45ef-817e-77c2035789d0</webElementGuid>
+      <webElementGuid>b55f2579-4213-45d9-bde9-10db81522754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,78 +63,100 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4f410b13-6e3a-4425-a3c5-65f1432378a8</webElementGuid>
+      <webElementGuid>01ac22c6-5951-42bd-9d28-f5d77d23d7ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Payment status</value>
-      <webElementGuid>6fe1213b-3049-427a-aa9b-aafd16da6f22</webElementGuid>
+      <value>Journal batch number</value>
+      <webElementGuid>3d6d947a-dc53-4d70-95ae-9b0cf62eedad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dyn-field _ezcqi5</value>
-      <webElementGuid>3a1a2ae6-c1e0-4633-bcb1-923535dea8f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Sent</value>
-      <webElementGuid>43960346-5fcf-434f-a166-61fe167f26b0</webElementGuid>
+      <value>dyn-field dyn-hyperlink _nrrlfe</value>
+      <webElementGuid>e40d34c9-d9fb-4cc3-be5e-ed2448c7decb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Sent</value>
-      <webElementGuid>1d51b642-9c5b-4ee3-940b-378dcb3b3704</webElementGuid>
+      <value>00022</value>
+      <webElementGuid>c409e2d3-7fb4-4eff-9c5e-2ad71af5a89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dyn-savedtooltip</name>
+      <type>Main</type>
+      <value>00022
+&#xd;
+Click to follow link</value>
+      <webElementGuid>0242cbd0-26d1-4231-b650-57403505402e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>00022
+&#xd;
+Click to follow link</value>
+      <webElementGuid>12ef0d2a-b59c-4b8e-b4ff-80c4bb9692f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>3e9e7348-01fd-49a4-93b4-eddf73032ba8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;LedgerJournalTrans_PaymentStatus_735_0_0_input&quot;)</value>
-      <webElementGuid>71bf8228-a6d7-44d4-a468-4a00654caa6c</webElementGuid>
+      <value>id(&quot;LedgerJournalTable_JournalNum_191_0_1_input&quot;)</value>
+      <webElementGuid>6a9378d8-3e30-480e-95cc-b50c19468674</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='LedgerJournalTrans_PaymentStatus_735_0_0_input']</value>
-      <webElementGuid>562300f8-8bf9-43c3-9297-38177be0baf0</webElementGuid>
+      <value>//input[@id='LedgerJournalTable_JournalNum_191_0_1_input']</value>
+      <webElementGuid>864f2c9d-97ed-4b75-9b14-46a820a8761c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='LedgerJournalTrans_PaymentStatus_735_0_0']/div/input</value>
-      <webElementGuid>68b03d03-bd29-4256-9a77-bb88700cad64</webElementGuid>
+      <value>//div[@id='LedgerJournalTable_JournalNum_191_0_1']/div/input</value>
+      <webElementGuid>4088e8ac-369f-4aae-a604-e858dd200654</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[16]/div/div/div/div/div/div/input</value>
-      <webElementGuid>3c8672c9-23ca-4057-beb5-e13784a68b7b</webElementGuid>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>0c350893-e18b-48c9-8811-dd5950994cc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'LedgerJournalTrans_PaymentStatus_735_0_0_input' and @type = 'text' and @title = 'Sent']</value>
-      <webElementGuid>fb102d25-15e7-41c4-9283-84d49656b66c</webElementGuid>
+      <value>//input[@id = 'LedgerJournalTable_JournalNum_191_0_1_input' and @type = 'text' and @title = '00022
+&#xd;
+Click to follow link']</value>
+      <webElementGuid>6cd4f190-c144-441b-a518-072a22e1577a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Payment request id_LedgerJournalTrans_1e64f4</name>
+   <name>input_Payment request id_LedgerJournalTrans_649733</name>
    <tag></tag>
-   <elementGuidId>0093df2d-b60b-4994-b4ac-38b8ddc6b61f</elementGuidId>
+   <elementGuidId>dfd3202f-4820-43f9-bfb6-0cb07e6e6a84</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[contains(@id,'overviewGrid_115_0-row-')]</value>
+         <key>CSS</key>
+         <value>#LedgerJournalTrans_PaymentStatus_303_0_0_input</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#LedgerJournalTrans_PaymentStatus_735_0_0_input</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;LedgerJournalTrans_PaymentStatus_743_0_0_input&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b5d0730d-0053-44c7-b134-35cf4f81239b</webElementGuid>
+      <webElementGuid>6d91cb42-2f22-400d-bbbf-22262aadf63e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>LedgerJournalTrans_PaymentStatus_735_0_0_input</value>
-      <webElementGuid>650e51f1-045d-497b-a7e1-750c2155abf4</webElementGuid>
+      <value>LedgerJournalTrans_PaymentStatus_303_0_0_input</value>
+      <webElementGuid>d5b9594f-9cf3-48ce-af88-45fe5217fa6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>863f68e5-ef47-4685-9782-467ba22a6e60</webElementGuid>
+      <webElementGuid>983977f8-9ddc-477d-bc04-58ef2fb5dc9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>deeece9c-fb00-45ef-817e-77c2035789d0</webElementGuid>
+      <webElementGuid>b6f4d1ed-aa52-4132-8eab-9cab3864cd99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4f410b13-6e3a-4425-a3c5-65f1432378a8</webElementGuid>
+      <webElementGuid>7a3718f1-1203-45a6-9c03-be169d953458</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Payment status</value>
-      <webElementGuid>6fe1213b-3049-427a-aa9b-aafd16da6f22</webElementGuid>
+      <webElementGuid>0146c173-3332-472d-9dbb-79697afab810</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,47 +77,47 @@
       <name>class</name>
       <type>Main</type>
       <value>dyn-field _ezcqi5</value>
-      <webElementGuid>3a1a2ae6-c1e0-4633-bcb1-923535dea8f6</webElementGuid>
+      <webElementGuid>6b809379-3898-4b13-883e-7c264bad1337</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
-      <value>Sent</value>
-      <webElementGuid>43960346-5fcf-434f-a166-61fe167f26b0</webElementGuid>
+      <value>Approved</value>
+      <webElementGuid>de469398-483e-441a-9c69-3e518d82b169</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Sent</value>
-      <webElementGuid>1d51b642-9c5b-4ee3-940b-378dcb3b3704</webElementGuid>
+      <value>Approved</value>
+      <webElementGuid>104a79ea-6989-4922-bea1-b5263a453c67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;LedgerJournalTrans_PaymentStatus_735_0_0_input&quot;)</value>
-      <webElementGuid>71bf8228-a6d7-44d4-a468-4a00654caa6c</webElementGuid>
+      <value>id(&quot;LedgerJournalTrans_PaymentStatus_303_0_0_input&quot;)</value>
+      <webElementGuid>a05ed23d-350a-4a55-84ad-58834b04c180</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='LedgerJournalTrans_PaymentStatus_735_0_0_input']</value>
-      <webElementGuid>562300f8-8bf9-43c3-9297-38177be0baf0</webElementGuid>
+      <value>//input[@id='LedgerJournalTrans_PaymentStatus_303_0_0_input']</value>
+      <webElementGuid>97b37890-d386-416c-b847-dc45cb61c8e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='LedgerJournalTrans_PaymentStatus_735_0_0']/div/input</value>
-      <webElementGuid>68b03d03-bd29-4256-9a77-bb88700cad64</webElementGuid>
+      <value>//div[@id='LedgerJournalTrans_PaymentStatus_303_0_0']/div/input</value>
+      <webElementGuid>e53ecfcc-a65e-4d47-ba1b-efb9c2fa2b6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,14 +125,22 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[16]/div/div/div/div/div/div/input</value>
-      <webElementGuid>3c8672c9-23ca-4057-beb5-e13784a68b7b</webElementGuid>
+      <webElementGuid>294bfa64-e55b-492d-88a6-97d1318baf1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'LedgerJournalTrans_PaymentStatus_735_0_0_input' and @type = 'text' and @title = 'Sent']</value>
-      <webElementGuid>fb102d25-15e7-41c4-9283-84d49656b66c</webElementGuid>
+      <value>//input[@id = 'LedgerJournalTrans_PaymentStatus_303_0_0_input' and @type = 'text' and @title = 'Approved']</value>
+      <webElementGuid>321b9b74-2277-48fc-91ec-08e34b85687d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'LedgerJournalTrans_PaymentStatus_303_0_0_input' and @type = 'text' and @title = 'Sent']</value>
+      <webElementGuid>e1ca4ed3-a34e-4263-8e0a-34e18ce56b33</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
